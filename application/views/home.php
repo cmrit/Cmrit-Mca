@@ -78,7 +78,7 @@
 </header>
 
 <div class="mca">
-Department Of MCA
+Department Of <span style="color:#a6b032;"> MCA</span>
 </div>
 
 <div class="blocks wrapper">
