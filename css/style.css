@@ -290,6 +290,7 @@ a:focus {
 .navbar-fixed-top .container,
 .navbar-fixed-bottom .container {
   width: 940px;
+  background:#FFF;arousel 
 }
 
 .span12 {
@@ -6264,3 +6265,82 @@ text-transform:uppercase;
 letter-spacing:-2px;
 text-align:center;
 }
+
+#next,
+#prev {
+	display:block;
+	position:absolute;
+	width:26px;
+	height:26px;
+	top:-2px;
+	}
+
+#next{
+	background: url(../images/next.jpg) 0 0 no-repeat;
+	right:5px;
+	}
+#prev{
+	background: url(../images/prev.jpg) 0 0 no-repeat;
+	right:35px;
+	} 
+
+#next:hover {background-position:0 bottom;}
+#prev:hover {background-position:0 bottom;}	
+
+#next-2,
+#prev-2 {
+	display:block;
+	position:absolute;
+	width:26px;
+	height:26px;
+	top:57px;
+	}
+
+#next-2{
+	background: url(../images/next.jpg) 0 0 no-repeat;
+	right:5px;
+	}
+#prev-2{
+	background: url(../images/prev.jpg) 0 0 no-repeat;
+	right:35px;
+	} 
+
+#next-2:hover {background-position:0 bottom;}
+#prev-2:hover {background-position:0 bottom;}	
+
+.carousel {
+	width:940px;
+	overflow:hidden;
+	margin-left:-4px;
+	margin-top:-3px;
+     }
+.carousel-box {position:relative;}
+.carousel-box>span{
+	font-family: 'Voltaire', sans-serif;
+	color:#000000;
+	font-size:20px;
+	line-height:24px;
+	text-transform:uppercase;
+	display:block;
+	margin-bottom:22px;
+	}
+
+.carousel ul li {
+	width:236px;
+	text-align:left;
+	padding-left:4px;
+	position:relative;
+	padding-top:3px;
+    }
+	
+.carousel ul li img{
+	border:5px solid #e3e3e3;
+	box-shadow:3px 3px 3px rgba(0,0,0,.25);
+	margin-bottom:20px;
+	}
+.carousel ul li a{
+	color:#274866;
+	}
+	.carousel ul li a:hover{color:#a6b032;}
+
+.blocks {background:url(../images/blocks.png) repeat-x left top #f7f7f7; padding:38px 0 35px; font-size:16px;}
