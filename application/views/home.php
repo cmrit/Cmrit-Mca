@@ -122,7 +122,7 @@
 </div>
 </div>
 <section id="content">
-	<div class="container_12 wrapper">
+	<div class="container_12">
 		<div class="grid_4">
 			<div class="block">
 				<p class="font-3">Block 1</p>
@@ -144,15 +144,13 @@
 	</div>
 	<div class="clear"></div>
 </section> 
-<aside class="wrapper">
+<div class="wrapper">
 	<div class="container_12">
 		<div class="grid_12">
 		All Rights Reserved &copy;		
 		</div>
 	</div>
-</aside>
 </div>
-<br />
 	    <script>
       $(window).load(function(){
           $('.slider')._TMS({
@@ -186,5 +184,6 @@
 		 });
       })
     </script>
+	
 </body>
 </html>
