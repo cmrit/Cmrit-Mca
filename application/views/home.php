@@ -83,6 +83,52 @@
 	<div class="mca">
 Department Of <span style="color:#a6b032;"> MCA</span>
 </div>
+
+<div class="blocks">
+	<div class="span10">
+		          <div class="carousel-box">
+            <span>Upcoming Events</span>
+            <a id="prev"></a>
+	  	    <a id="next"></a>
+            <div class="carousel">
+                <ul>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
+                        <a href="#">Class aptent taciti<br> sociosqu ad litora torquent.</a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
+                        <a href="#">Phasellus pharetra<br>interdum ante sit amettinc. </a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
+                        <a href="#">Aenean pulvinar porta velit <br> quis scelerisque.</a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
+                        <a href="#">dolore magna aliquam <br> erat volutpat.</a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
+                        <a href="#">Class aptent taciti<br> sociosqu ad litora torquent.</a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
+                        <a href="#">Phasellus pharetra<br>interdum ante sit amettinc. </a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
+                        <a href="#">Aenean pulvinar porta velit <br> quis scelerisque.</a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
+                        <a href="#">dolore magna aliquam <br> erat volutpat.</a>
+                    </li>
+                </ul>
+            </div>
+	</div>
+</div>
+</div>
 	
 	
 	
