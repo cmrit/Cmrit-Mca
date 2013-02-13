@@ -102,19 +102,16 @@ a.color-2:hover { text-decoration:none}
 /*********************************header*************************************/
 header {}
 .header {overflow:hidden; background:url(../images/header.png) repeat-x left top #f3f3f3; padding-bottom:40px}
-h1 {margin:0; float:left}
-h1 a {
+.mca {
 font-family: 'Voltaire', sans-serif;
-line-height:60px; 
 font-size:48px; 
-color:#ffffff; 
+color:#274866; 
 text-decoration:none;
 font-weight:400; 
-margin:43px 0 5px; 
-display:inline-block;
+margin:25px 0 7px; 
 text-transform:uppercase; 
-padding:0 34px 0 0; 
-letter-spacing:-2px
+letter-spacing:-2px;
+text-align:center;
 }
 /***********************************nav*************************************/
 nav {position:relative; z-index:101;float:right; margin-top:24px}
