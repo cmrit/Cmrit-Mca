@@ -6228,3 +6228,29 @@ overflow:hidden;
 	color:#363636;
 	margin:3px 0 0 0;
 	}
+
+	
+	
+.pagination {
+position:absolute;
+top:250px; 
+z-index:1000; 
+width:100px; 
+height:62px;
+left:949px;
+}
+
+.pagination li {
+float:left;	
+margin: 0 4px 0 0;
+display:inline-block;
+}
+.pagination a {
+display:block; 
+width:16px; 
+height:16px; 
+background: url(../images/pagination.png) right 0 no-repeat;
+}
+.pagination li.current a, .pagination li:hover a{
+background: url(../images/pagination.png) 0 0 no-repeat;
+}
