@@ -320,7 +320,9 @@ ul.sf-menu>li {padding:0px;border-radius:5px;background:url(../images/png-3.png)
 ul.sf-menu>li.last {padding-right:0px}
 ul.sf-menu>li>a {font-size:14px; line-height:20px; color:#a5b6ba;display:inline-block; font-weight:700; font-family: 'Open Sans Condensed', sans-serif; text-transform:uppercase; padding:10px 20px;  background:url(../images/png-3.png) repeat;}
 ul.sf-menu>li.current>a, ul.sf-menu>li.sfHover>a, ul.sf-menu>li>a:hover {color:#FFF;}
-ul.sf-menu>li.current, ul.sf-menu>li.sfHover, ul.sf-menu>li:hover { background-color:#a6b032;}
+ul.sf-menu>li.current, ul.sf-menu>li.sfHover, ul.sf-menu>li:hover { 
+background-color:#a6b032;
+}
 .sf-menu>li>ul ul, .sf-menu>li>ul { width:161px;  top:40px; left:0;display:block; background:url(../images/png.png) repeat left top; padding:20px 4px 25px 21px; border-radius:10px}
 .sf-menu>li>ul>li a {color:#FFF; display:inline-block; line-height:20px; font-size:11px; text-transform:uppercase;text-align:left;font-family: 'Open Sans Condensed', sans-serif; font-weight:bold; font-size:14px}
 .sf-menu>li>ul>li {display:block; float:none; text-align:left;padding:5px 0; }
@@ -337,26 +339,27 @@ ul.sf-menu>li li.sfHover li a {text-decoration:none}
 ul li li .sf-sub-indicator {display:none}
 
 /*--------- slider ---------*/
-#slide {width: 100%;
+#slide {
+width: 100%;
 position:relative; 
 z-index:1; }
 
 .slider {
 position: relative; 
 z-index:1;
- 
+height:300px;
 margin:0 auto;
 overflow: hidden; /*top:50px; left:82px;*/
 }
 .items {display:none;}
 
 .banner{
-width: 731px;
+width: 600px;
 background: url(../images/bg-banner.png) 0 0 no-repeat;
 position:absolute;
-top: 275px; 
+top: 165px; 
 z-index:15; 
-height: 102px;
+height: 90px;
 right:0; 
 overflow:hidden;
 }
@@ -379,7 +382,7 @@ overflow:hidden;
 	}
 
 
-.pagination {position:absolute;top:396px; z-index:1000; width:100px; height:62px;left:949px;}
+.pagination {position:absolute;top:275px; z-index:1000; width:100px; height:62px;left:949px;}
 .pagination li {float:left;	margin: 0 4px 0 0;}
 .pagination a {display:block; width:16px; height:16px; background: url(../images/pagination.png) right 0 no-repeat;}
 .pagination li.current a, .pagination li:hover a{background: url(../images/pagination.png) 0 0 no-repeat;}
