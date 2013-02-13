@@ -6313,6 +6313,7 @@ text-align:center;
 	overflow:hidden;
 	margin-left:-4px;
 	margin-top:-3px;
+	max-width: 100%;
      }
 .carousel-box {position:relative;}
 .carousel-box>span{
@@ -6343,4 +6344,8 @@ text-align:center;
 	}
 	.carousel ul li a:hover{color:#a6b032;}
 
-.blocks {background:url(../images/blocks.png) repeat-x left top #f7f7f7; padding:38px 0 35px; font-size:16px;}
+.blocks {
+background:url(../images/blocks.png) repeat-x left top #f7f7f7; 
+padding:38px 0 35px; 
+font-size:16px;
+}
