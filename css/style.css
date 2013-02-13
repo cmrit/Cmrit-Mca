@@ -6227,9 +6227,7 @@ overflow:hidden;
 .banner-inner p{
 	color:#363636;
 	margin:3px 0 0 0;
-	}
-
-	
+	}	
 	
 .pagination {
 position:absolute;
@@ -6253,4 +6251,16 @@ background: url(../images/pagination.png) right 0 no-repeat;
 }
 .pagination li.current a, .pagination li:hover a{
 background: url(../images/pagination.png) 0 0 no-repeat;
+}
+
+.mca {
+font-family: 'Voltaire', sans-serif;
+font-size:48px; 
+color:#274866; 
+text-decoration:none;
+font-weight:400; 
+margin:45px 0 7px; 
+text-transform:uppercase; 
+letter-spacing:-2px;
+text-align:center;
 }
