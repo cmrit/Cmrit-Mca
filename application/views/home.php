@@ -33,9 +33,9 @@
 				<div class="span6 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li class="active"><a href="<?php echo base_url(); ?>index.html">Home</a></li>
+							<li><a href="<?php echo base_url(); ?>">about us</a></li>
 							<li><a href="<?php echo base_url(); ?>">admission</a></li>
 							<li><a href="<?php echo base_url(); ?>">programs</a></li>
-							<li><a href="<?php echo base_url(); ?>">about us</a></li>
 							<li><a href="<?php echo base_url(); ?>">news</a></li>
 							<li><a href="<?php echo base_url(); ?>">Contacts</a></li>
 						</ul>    				
