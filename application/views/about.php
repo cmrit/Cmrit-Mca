@@ -23,7 +23,7 @@
     <script src="<?php echo base_url(); ?>js/jcarousellite.js" type="text/javascript"></script>
   </head>
 
-  <body>
+  <body id="p2">
 
     <div class="container">
 	<header>
@@ -32,8 +32,8 @@
 			
 				<div class="span6 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
-							<li class="active"><a href="<?php echo base_url(); ?>">Home</a></li>
-							<li><a href="<?php echo base_url().'about'; ?>">about us</a></li>
+							<li><a href="<?php echo base_url(); ?>">Home</a></li>
+							<li class="active"><a href="<?php echo base_url().'about'; ?>">about us</a></li>
 							<li><a href="<?php echo base_url(); ?>">admission</a></li>
 							<li><a href="<?php echo base_url(); ?>">programs</a></li>
 							<li><a href="<?php echo base_url(); ?>">news</a></li>
@@ -44,39 +44,7 @@
 				<div class="span3 pull-left logo-align">
 				<img src="images/logo-small.png" />
 			</div>
-		</div>
-		
-			            <div id="slide">
-				<div class="slider">
-					<ul class="items">
-				    <li><img src="<?php echo base_url(); ?>images/slide.jpg" alt="" />
-						 <div class="banner">
-                             <div class="banner-inner">
-                                <span><strong>Career</strong> opportunities</span>
-                                <p>Vivamus et metus non lorem ullamcorper aliquam tempus molestie nunc.</p>
-                             </div>
-                         </div>
-					</li>
-				    <li><img src="<?php echo base_url(); ?>images/slide-1.jpg" alt="" />
-						<div class="banner">
-							<div class="banner-inner">
-							        <span><strong>Knowledge</strong>  is power!</span>
-							        <p>Vivamus et metus non lorem ullamcorper aliquam tempus molestie nunc.</p>
-							</div>
-						</div>
-					</li>
-                    <li><img src="<?php echo base_url(); ?>images/slide-2.jpg" alt="" />
-						<div class="banner">
-							<div class="banner-inner">
-							        <span><strong>It's never </strong>too late to study!</span>
-							        <p>Vivamus et metus non lorem ullamcorper aliquam tempus molestie nunc.</p>
-							</div>
-						</div>
-					</li>
-					</ul>
-				</div>
-			 </div>
-		
+		</div>		
 	</header>
 	
 	<div class="mca">
@@ -84,61 +52,9 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 </div>
 
 <div class="blocks">
-	<div class="span10">
-		          <div class="carousel-box">
-            <span>Upcoming Events</span>
-            <a id="prev"></a>
-	  	    <a id="next"></a>
-            <div class="carousel">
-                <ul>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
-                        <a href="#">Class aptent taciti<br> sociosqu ad litora torquent.</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
-                        <a href="#">Phasellus pharetra<br>interdum ante sit amettinc. </a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
-                        <a href="#">Aenean pulvinar porta velit <br> quis scelerisque.</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
-                        <a href="#">dolore magna aliquam <br> erat volutpat.</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
-                        <a href="#">Class aptent taciti<br> sociosqu ad litora torquent.</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
-                        <a href="#">Phasellus pharetra<br>interdum ante sit amettinc. </a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
-                        <a href="#">Aenean pulvinar porta velit <br> quis scelerisque.</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
-                        <a href="#">dolore magna aliquam <br> erat volutpat.</a>
-                    </li>
-                </ul>
-            </div>
-</div>
-</div>
-</div>
-
 <div class="content row-fluid">
-		<div class="span4 well">
-				<p class="font-3">Block 1</p>
-				<ul class="top-1 list">
-					<li><a href="#">List1</a></li>
-					<li><a href="#">List2</a></li>
-					<li><a href="#">List3</a></li>
-					<li><a href="#">List3</a></li>
-					<li><a href="#">List4</a></li>
-				</ul>
+		<div class="span4">
+			<h2>Block 2</h2>
 		</div>
 		<div class="span4">
 			<h2>Block 2</h2>
@@ -147,7 +63,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 			<h2>Block 3</h2>
 		</div>
 </div>
-
+</div>
 
 <footer>
 	<div class="container_12">
