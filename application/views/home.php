@@ -23,7 +23,7 @@
     <script src="<?php echo base_url(); ?>js/jcarousellite.js" type="text/javascript"></script>
   </head>
 
-  <body>
+  <body id="p1">
 
     <div class="container">
 	<header>
