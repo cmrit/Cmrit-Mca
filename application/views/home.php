@@ -34,7 +34,7 @@
 							<li><a href="<?php echo base_url(); ?>">programs</a></li>
 							<li><a href="<?php echo base_url(); ?>">news</a></li>
 							<li><a href="<?php echo base_url(); ?>">Contacts</a></li>
-						</ul>    				
+						</ul>    								
 				</div>
 				
 				<div class="span3 pull-left logo-align">
