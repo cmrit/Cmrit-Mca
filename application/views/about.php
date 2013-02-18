@@ -9,13 +9,9 @@
     <link href="<?php echo base_url(); ?>css/style.css" rel="stylesheet">
     <link href="<?php echo base_url(); ?>css/responsive.css" rel="stylesheet">
 
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="../assets/js/html5shiv.js"></script>
-    <![endif]-->
-	
 		<link href='http://fonts.googleapis.com/css?family=Voltaire' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 	
     <script src="<?php echo base_url(); ?>js/jquery-1.7.1.min.js"></script>
     <script src="<?php echo base_url(); ?>js/jquery.easing.1.3.js"></script>
@@ -51,19 +47,40 @@
 Department Of <span style="color:#a6b032;"> MCA</span>
 </div>
 
-<div class="blocks">
-<div class="content row-fluid">
-		<div class="span4">
-			<h2>Block 2</h2>
+<div class="content">
+<div class="span10">
+<div class="span6 pull-right">
+			<h2>About Department</h2>
+			<hr />
+			<p>
+				The CMR Jnanadhara Trust was established in 1991 as a tribute to the late Sri Chikka Muniyappa Reddy, a great visionary and philanthropist who believed that every individual deserves access to a quality education. In accordance with this vision, the CMR educational institutes were founded, to give every student a chance at an outstanding, value-based and well-rounded education. The Trust supports and manages all the activities of the CMR Group of Institutions. The CMR Group is a unique educational conglomerate, which comprises twelve Higher Education institutions, three schools, a Pre-University College, and various Centres of Excellence in Research. The CMR campuses are located in prominent and easily accessible areas across the city of Bangalore, India. CMR has also partnered with the National Education Trust to found the NPS International School on a lush 6 acre campus in Singapore.
+
+CMR Group of Institutions offers a wide range of courses from the Montessori level, K-12 Schools to Post Graduate and PhD programmes. Areas of study include engineering, education, law, management, media studies, biosciences, business administration, psychology, nursing and paramedical. Overall, there are 23 different courses offered at the undergraduate level, and 22 courses at the postgraduate level. These institutions promote academic and professional excellence in their respective fields.
+
+At CMR, we are continuously innovating our curriculum delivery, and strive to bring the best educational experience to the classroom. Our students benefit from the vast network of resources and cross competencies that the CMR Group has to offer. With a total of approximately 15000 students from across India and an international student body from over 58 countries, the academic environment is incredibly diverse and offers many rich opportunities for learning.
+			</p>
 		</div>
-		<div class="span4">
-			<h2>Block 2</h2>
-		</div>
-		<div class="span3">
-			<h2>Block 3</h2>
+			<h2>Vision</h2>
+			<hr />
+			<p>
+			To create, build and provide value added educational services through teaching, training, 
+			research, consultancy and entrepreneurship within and beyond the curriculum, by means of quality 
+			infrastructure, material and human resources to attain intellectual heights.
+			</p>
+		
+							<h2>Mission Statement</h2>
+			<hr />
+			<p>
+				<ul>
+				<li>Give the community genuine, talented, upto date, motivated and trained professionals.</li>
+<li>Develop all institutions as model institutions which will enable the students or the parents to realise their ambition / dream in a more structured and positive manner.</li>
+<li>Inculcate the right values, scientific temperament and social commitment amongst the students and ensure they become right partners of progress.</li>
+				</ul>
+			</p>
 		</div>
 </div>
-</div>
+
+
 
 <footer>
 	<div class="container_12">
