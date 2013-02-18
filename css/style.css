@@ -223,9 +223,9 @@ textarea {
 
 body {
   margin: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 14px;
-  line-height: 20px;
+  line-height: 26px;
   color: #333333;
   background-color: #ebebeb;
 }
@@ -832,7 +832,8 @@ ol ul {
 }
 
 li {
-  line-height: 20px;
+  line-height: 26px;
+  margin-bottom: 20px;
 }
 
 ul.unstyled,
@@ -903,7 +904,7 @@ dd {
 }
 
 hr {
-  margin: 20px 0;
+  margin: -12px 0 12px 0;
   border: 0;
   border-top: 1px solid #eeeeee;
   border-bottom: 1px solid #ffffff;
@@ -6349,19 +6350,21 @@ text-align:center;
 	}
 	.carousel ul li a:hover{color:#a6b032;}
 
-.blocks {
+#p1 .blocks {
 background:url(../images/blocks.png) repeat-x left top #f7f7f7; 
 padding:38px 0 35px; 
-font-size:16px;
+font-size:14px;
 height:240px;
 }
 
-#p1 .content {
-margin-top:40px;
-margin-left:40px;
+#p2 .blocks {
+padding:38px 0 35px; 
+font-size:14px;
+height:240px;
 }
 
-#p2 .content {
+.content {
+margin-top:40px;
 margin-left:40px;
 }
 
@@ -6408,4 +6411,8 @@ background-color:#274866;
 padding:25px 0 35px; 
 font-size:11px; 
 color:#fff;
+}
+
+.content .span10 {
+margin-left: -12px;
 }
