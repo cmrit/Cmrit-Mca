@@ -6416,3 +6416,7 @@ color:#fff;
 .content .span10 {
 margin-left: -12px;
 }
+
+.clear {
+	height: 40px;
+}
