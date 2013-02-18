@@ -67,8 +67,10 @@ At CMR, we are continuously innovating our curriculum delivery, and strive to br
 			research, consultancy and entrepreneurship within and beyond the curriculum, by means of quality 
 			infrastructure, material and human resources to attain intellectual heights.
 			</p>
+			
+			<div class="clear"></div>
 		
-							<h2>Mission Statement</h2>
+			<h2>Mission Statement</h2>
 			<hr />
 			<p>
 				<ul>
