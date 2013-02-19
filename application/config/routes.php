@@ -40,7 +40,7 @@
 
 $route['default_controller'] = "welcome";
 $route['about'] = "welcome/about";
-$route['about'] = "welcome/contact";
+$route['contact'] = "welcome/contact";
 $route['404_override'] = '';
 
 
