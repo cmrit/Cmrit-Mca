@@ -9,10 +9,9 @@
     <link href="<?php echo base_url(); ?>css/style.css" rel="stylesheet">
     <link href="<?php echo base_url(); ?>css/responsive.css" rel="stylesheet">
 
-	<!--	<link href='http://fonts.googleapis.com/css?family=Voltaire' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Voltaire' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
-	-->
 
   </head>
 
@@ -30,7 +29,7 @@
 							<li><a href="<?php echo base_url(); ?>">admission</a></li>
 							<li><a href="<?php echo base_url(); ?>">programs</a></li>
 							<li><a href="<?php echo base_url(); ?>">news</a></li>
-							<li><a href="<?php echo base_url(); ?>">Contacts</a></li>
+							<li><a href="<?php echo base_url().'contact'; ?>">Contacts</a></li>
 						</ul>    				
 				</div>
 				
