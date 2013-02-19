@@ -46,36 +46,58 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 
 <div class="content">
 <div class="span10">
-<div class="span6 pull-right">
-			<h2>About Department</h2>
+	<div class="span3 pull-right">
+			<h2>Address</h2>
 			<hr />
-			<p>
-				The CMR Jnanadhara Trust was established in 1991 as a tribute to the late Sri Chikka Muniyappa Reddy, a great visionary and philanthropist who believed that every individual deserves access to a quality education. In accordance with this vision, the CMR educational institutes were founded, to give every student a chance at an outstanding, value-based and well-rounded education. The Trust supports and manages all the activities of the CMR Group of Institutions. The CMR Group is a unique educational conglomerate, which comprises twelve Higher Education institutions, three schools, a Pre-University College, and various Centres of Excellence in Research. The CMR campuses are located in prominent and easily accessible areas across the city of Bangalore, India. CMR has also partnered with the National Education Trust to found the NPS International School on a lush 6 acre campus in Singapore.
-
-CMR Group of Institutions offers a wide range of courses from the Montessori level, K-12 Schools to Post Graduate and PhD programmes. Areas of study include engineering, education, law, management, media studies, biosciences, business administration, psychology, nursing and paramedical. Overall, there are 23 different courses offered at the undergraduate level, and 22 courses at the postgraduate level. These institutions promote academic and professional excellence in their respective fields.
-
-At CMR, we are continuously innovating our curriculum delivery, and strive to bring the best educational experience to the classroom. Our students benefit from the vast network of resources and cross competencies that the CMR Group has to offer. With a total of approximately 15000 students from across India and an international student body from over 58 countries, the academic environment is incredibly diverse and offers many rich opportunities for learning.
-			</p>
+				<strong>CMR Institute of Technology</strong>
+<p>132 AECS Layout,<br />
+IT Park Road<br />
+Bangalore - 560 037<br />
+Telephone : 28524477, 28524466<br />
+Telefax : 28524477<br />
+E-Mail : <a href="mailto:info@cmredu.com">info@cmredu.com</a></p>
 		</div>
-			<h2>Vision</h2>
-			<hr />
-			<p>
-			To create, build and provide value added educational services through teaching, training, 
-			research, consultancy and entrepreneurship within and beyond the curriculum, by means of quality 
-			infrastructure, material and human resources to attain intellectual heights.
-			</p>
+				<div class="span4 pull-right">
+			<h3>&nbsp;</h3>
 			
-			<div class="clear"></div>
-		
-			<h2>Mission Statement</h2>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/maps?hl=en&amp;ie=UTF8&amp;q=cmrit&amp;fb=1&amp;gl=in&amp;hq=cmrit&amp;hnear=0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0,Bangalore,+Karnataka&amp;cid=0,0,8689206662462636658&amp;ll=12.966619,77.711763&amp;spn=0.006295,0.006295&amp;t=m&amp;output=embed"></iframe>
+</small>
+		</div>
+			<h2>Contact</h2>
 			<hr />
-			<p>
-				<ul>
-				<li>Give the community genuine, talented, upto date, motivated and trained professionals.</li>
-<li>Develop all institutions as model institutions which will enable the students or the parents to realise their ambition / dream in a more structured and positive manner.</li>
-<li>Inculcate the right values, scientific temperament and social commitment amongst the students and ensure they become right partners of progress.</li>
-				</ul>
-			</p>
+					  <form action="" method="POST" id="contact_form">
+						<div id="js-messages"></div>
+            <div class="control-group">
+                          
+                <input type="text" class="input-large" id="inputFullname" placeholder="Name :">
+             
+            </div>
+
+            <div class="control-group">
+                         
+                <input type="text" class="input-large" id="inputEmail" placeholder="Email :">
+              
+            </div>
+
+            <div class="control-group">
+                           
+                <input type="text" class="input-large" id="inputSubject" placeholder="Phone :">
+              
+            </div>
+
+            <div class="control-group">
+                           
+                <textarea rows="6" class="input-large" placeholder="Message :" id="inputMessage"></textarea>
+              
+            </div>
+
+            <div class="control-group">
+    			
+     				 <input type="submit" class="btn btn-success" value="Send Message">
+    			       
+        		<br class="clear">                
+        	</div>
+            </form>
 		</div>
 </div>
 
