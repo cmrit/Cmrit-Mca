@@ -25,11 +25,11 @@
 				<div class="span6 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li><a href="<?php echo base_url(); ?>">Home</a></li>
-							<li class="active"><a href="<?php echo base_url().'about'; ?>">about us</a></li>
+							<li><a href="<?php echo base_url().'about'; ?>">about us</a></li>
 							<li><a href="<?php echo base_url(); ?>">admission</a></li>
 							<li><a href="<?php echo base_url(); ?>">programs</a></li>
 							<li><a href="<?php echo base_url(); ?>">news</a></li>
-							<li><a href="<?php echo base_url().'contact'; ?>">Contacts</a></li>
+							<li class="active"><a href="<?php echo base_url().'contact'; ?>">Contacts</a></li>
 						</ul>    				
 				</div>
 				
