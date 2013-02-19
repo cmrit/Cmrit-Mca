@@ -9,10 +9,9 @@
     <link href="<?php echo base_url(); ?>css/style.css" rel="stylesheet">
     <link href="<?php echo base_url(); ?>css/responsive.css" rel="stylesheet">
 
-	<!--	<link href='http://fonts.googleapis.com/css?family=Voltaire' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Voltaire' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
-	-->
 	
     <script src="<?php echo base_url(); ?>js/jquery-1.7.1.min.js"></script>
     <script src="<?php echo base_url(); ?>js/jquery.easing.1.3.js"></script>
@@ -34,7 +33,7 @@
 							<li><a href="<?php echo base_url(); ?>">admission</a></li>
 							<li><a href="<?php echo base_url(); ?>">programs</a></li>
 							<li><a href="<?php echo base_url(); ?>">news</a></li>
-							<li><a href="<?php echo base_url(); ?>">Contacts</a></li>
+							<li><a href="<?php echo base_url().'contact'; ?>">Contacts</a></li>
 						</ul>    								
 				</div>
 				
@@ -44,7 +43,7 @@
 		</div>
 		</div>
 		
-			            <div id="slide1">
+			            <div id="slide">
 				<div class="slider">
 					<ul class="items">
 				    <li><img src="<?php echo base_url(); ?>images/slide.jpg" alt="" />
