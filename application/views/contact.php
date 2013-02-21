@@ -93,7 +93,7 @@ E-Mail : <a href="mailto:info@cmredu.com">info@cmredu.com</a></p>
 
             <div class="control-group">
     			
-     				 <input type="submit" class="btn btn-success" value="Send Message">
+     				 <input type="submit" class="btn" value="Send Message">
     			       
         		<br class="clear">                
         	</div>
