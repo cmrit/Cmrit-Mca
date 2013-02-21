@@ -8,6 +8,8 @@
     <!-- Le styles -->
     <link href="<?php echo base_url(); ?>css/style.css" rel="stylesheet">
     <link href="<?php echo base_url(); ?>css/responsive.css" rel="stylesheet">
+	
+	<script src="<?php echo base_url(); ?>js/jquery-1.7.1.min.js"></script>
 
 	<link href='http://fonts.googleapis.com/css?family=Voltaire' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
@@ -25,7 +27,16 @@
 				<div class="span6 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li><a href="<?php echo base_url(); ?>">Home</a></li>
-							<li class="active"><a href="<?php echo base_url().'about'; ?>">about us</a></li>
+							<li class="active drpdwn"><a href="#" class="account">about us</a>
+								<div class="submenu">
+								<ul class="root">
+									<li ><a href="#Dashboard" >Dashboard</a></li>
+									<li ><a href="#Profile" >Profile</a></li>
+									<li ><a href="#settings">Settings</a></li>
+									<li ><a href="#feedback">Send Feedback</a></li>
+								</ul>
+								</div>
+							</li>
 							<li><a href="<?php echo base_url(); ?>">admission</a></li>
 							<li><a href="<?php echo base_url(); ?>">programs</a></li>
 							<li><a href="<?php echo base_url(); ?>">news</a></li>
@@ -124,5 +135,39 @@ At CMR, we are continuously innovating our curriculum delivery, and strive to br
 		 });
       })
     </script>
+	<script type="text/javascript" >
+$(document).ready(function()
+{
+
+$(".drpdwn").mouseenter(function()
+{
+$(".submenu").show();
+}).mouseleave(function(){
+setTimeout(function(){
+$(".submenu").hide();
+}, 800);
+});
+
+//Mouse click on sub menu
+$(".submenu").mouseup(function()
+{
+return false
+});
+
+//Mouse click on my account link
+$(".account").mouseup(function()
+{
+return false
+});
+
+
+//Document Click
+$(document).mouseup(function()
+{
+$(".submenu").hide();
+$(".account").attr('id', '');
+});
+});
+</script>
   </body>
 </html>
