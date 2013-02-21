@@ -34,7 +34,7 @@
 				</div>
 				
 				<div class="span3 pull-left logo-align">
-				<img src="images/logo-small.png" />
+				<img src="<?php echo base_url(); ?>images/logo-small.png" />
 			</div>
 		</div>	
 		</div>
