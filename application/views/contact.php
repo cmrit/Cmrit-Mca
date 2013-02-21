@@ -12,6 +12,9 @@
 	<link href='http://fonts.googleapis.com/css?family=Voltaire' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+	<script src="<?php echo base_url(); ?>js/jquery-1.7.1.min.js"></script>
+	<script src="<?php echo base_url(); ?>js/jquery.js"></script>
+	<script src="<?php echo base_url(); ?>js/tms-0.4.1.js"></script>
 
   </head>
 
@@ -25,7 +28,16 @@
 				<div class="span6 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li><a href="<?php echo base_url(); ?>">Home</a></li>
-							<li><a href="<?php echo base_url().'about'; ?>">about us</a></li>
+							<li class="drpdwn"><a href="<?php echo base_url().'about'; ?>">about us</a>
+								<div class="submenu">
+								<ul class="root">
+									<li ><a href="#">Link 1</a></li>
+									<li ><a href="#">Link 2</a></li>
+									<li ><a href="#">Link 3</a></li>
+									<li ><a href="#">Link 4</a></li>
+								</ul>
+								</div>
+							</li>
 							<li><a href="<?php echo base_url(); ?>">admission</a></li>
 							<li><a href="<?php echo base_url(); ?>">programs</a></li>
 							<li><a href="<?php echo base_url(); ?>">news</a></li>
@@ -113,38 +125,5 @@ E-Mail : <a href="mailto:info@cmredu.com">info@cmredu.com</a></p>
 
 	
     </div> <!-- /container -->
-	<script>
-      $(window).load(function(){
-          $('.slider')._TMS({
-              show:0,
-              pauseOnHover:false,
-              playBu:false,
-              duration:1000,
-              preset:'fade', 
-              pagination:true,//'.pagination',true,'<ul></ul>'
-              pagNums:false,
-              slideshow:6000,
-              numStatus:false,
-              banners:'fromRight',
-		      waitBannerAnimation:false,
-			  progressBar:false
-          })
-		  $(function() {
-             $(".carousel").jCarouselLite({	
-                  btnNext: "#next",
-                  btnPrev: "#prev",
-                  easing:"easeOutBack",
-                  speed: 700
-             });
-          });		
-		  $('.cycle-div').cycle({ 
-		    fx:     'fade', 
-		    speed:  1000, 
-		    timeout: 0, 
-		    next:   '#next2', 
-		    prev:   '#prev2' 
-		 });
-      })
-    </script>
   </body>
 </html>
