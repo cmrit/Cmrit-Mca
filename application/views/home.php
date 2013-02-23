@@ -35,10 +35,10 @@
 							<li><a href="#" class="account">about us</a>
 								<div class="submenu">
 								<ul class="root">
-									<li ><a href="#">Vision</a></li>
-									<li ><a href="#">Mission</a></li>
-									<li ><a href="#">About Department</a></li>
-									<li ><a href="#">Our Staffs</a></li>
+									<li ><a href="<?php echo base_url().'about'; ?>">Vision</a></li>
+									<li ><a href="<?php echo base_url().'about'; ?>">Mission</a></li>
+									<li ><a href="<?php echo base_url().'about'; ?>">About Department</a></li>
+									<li ><a href="<?php echo base_url().'about'; ?>">Our Staffs</a></li>
 								</ul>
 								</div>
 							</li>
