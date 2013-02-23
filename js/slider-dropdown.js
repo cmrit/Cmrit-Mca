@@ -1,4 +1,29 @@
- $(document).ready(function()
+      $(window).load(function(){
+          $('.slider')._TMS({
+              show:0,
+              pauseOnHover:false,
+              playBu:false,
+              duration:1000,
+              preset:'fade', 
+              pagination:true,//'.pagination',true,'<ul></ul>'
+              pagNums:false,
+              slideshow:6000,
+              numStatus:false,
+              banners:'fromRight',
+		      waitBannerAnimation:false,
+			  progressBar:false
+          })
+		  $(function() {
+             $(".carousel").jCarouselLite({	
+                  btnNext: "#next",
+                  btnPrev: "#prev",
+                  easing:"easeOutBack",
+                  speed: 700
+             });
+          });		
+      })
+	  
+$(document).ready(function()
 {
 $(".account").click(function()
 {
@@ -37,28 +62,3 @@ $(".account").attr('id', '');
 });
 	
 });
-
-     $(window).load(function(){
-          $('.slider')._TMS({
-              show:0,
-              pauseOnHover:false,
-              playBu:false,
-              duration:1000,
-              preset:'fade', 
-              pagination:true,//'.pagination',true,'<ul></ul>'
-              pagNums:false,
-              slideshow:6000,
-              numStatus:false,
-              banners:'fromRight',
-		      waitBannerAnimation:false,
-			  progressBar:false
-          })
-		  $(function() {
-             $(".carousel").jCarouselLite({	
-                  btnNext: "#next",
-                  btnPrev: "#prev",
-                  easing:"easeOutBack",
-                  speed: 700
-             });
-          });		
-      })
