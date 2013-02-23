@@ -27,7 +27,7 @@
 		<div class="head-content">
 			<div class="row-fluid">
 			
-				<div class="span6 pull-right nav-align">
+				<div class="span9 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li class="active"><a href="<?php echo base_url(); ?>">Home</a></li>
 							<li class="drpdwn"><a href="<?php echo base_url().'about'; ?>">about us</a>
@@ -41,13 +41,14 @@
 								</div>
 							</li>
 							<li><a href="<?php echo base_url(); ?>">admission</a></li>
-							<li><a href="<?php echo base_url(); ?>">programs</a></li>
-							<li><a href="<?php echo base_url(); ?>">news</a></li>
+							<li><a href="<?php echo base_url(); ?>">Beyond Syllabus</a></li>
+							<li><a href="<?php echo base_url(); ?>">Research Initiatives</a></li>
+							<li><a href="<?php echo base_url(); ?>">Achievements</a></li>
 							<li><a href="<?php echo base_url().'contact'; ?>">Contacts</a></li>
 						</ul>    								
 				</div>
 				
-				<div class="span3 pull-left logo-align">
+				<div class="span2 pull-left logo-align">
 				<img src="<?php echo base_url(); ?>images/logo-small.png" />
 			</div>
 		</div>
