@@ -18,6 +18,8 @@
     <script src="<?php echo base_url(); ?>js/tms-0.4.1.js"></script>
     <script src="<?php echo base_url(); ?>js/jcarousellite.js" type="text/javascript"></script>
 	<script src="<?php echo base_url(); ?>js/jquery.js"></script>
+	
+
   </head>
 
   <body id="p1">
@@ -30,13 +32,13 @@
 				<div class="span9 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li class="active"><a href="<?php echo base_url(); ?>">Home</a></li>
-							<li class="drpdwn"><a href="<?php echo base_url().'about'; ?>">about us</a>
+							<li><a href="#" class="account">about us</a>
 								<div class="submenu">
 								<ul class="root">
-									<li ><a href="#">Link 1</a></li>
-									<li ><a href="#">Link 2</a></li>
-									<li ><a href="#">Link 3</a></li>
-									<li ><a href="#">Link 4</a></li>
+									<li ><a href="#">Vision</a></li>
+									<li ><a href="#">Mission</a></li>
+									<li ><a href="#">About Department</a></li>
+									<li ><a href="#">Our Staffs</a></li>
 								</ul>
 								</div>
 							</li>
