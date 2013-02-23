@@ -10,7 +10,9 @@
     <link href="<?php echo base_url(); ?>css/responsive.css" rel="stylesheet">
 	
 	<script src="<?php echo base_url(); ?>js/jquery-1.7.1.min.js"></script>
-	
+    <script src="<?php echo base_url(); ?>js/jquery.easing.1.3.js"></script>
+    <script src="<?php echo base_url(); ?>js/tms-0.4.1.js"></script>
+    <script src="<?php echo base_url(); ?>js/jcarousellite.js" type="text/javascript"></script>
 	<script src="<?php echo base_url(); ?>js/slider-dropdown.js"></script>
 
 	<link href='http://fonts.googleapis.com/css?family=Voltaire' rel='stylesheet' type='text/css'>
@@ -65,12 +67,56 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 			<h2>About Department</h2>
 			<hr />
 			<p>
-				The CMR Jnanadhara Trust was established in 1991 as a tribute to the late Sri Chikka Muniyappa Reddy, a great visionary and philanthropist who believed that every individual deserves access to a quality education. In accordance with this vision, the CMR educational institutes were founded, to give every student a chance at an outstanding, value-based and well-rounded education. The Trust supports and manages all the activities of the CMR Group of Institutions. The CMR Group is a unique educational conglomerate, which comprises twelve Higher Education institutions, three schools, a Pre-University College, and various Centres of Excellence in Research. The CMR campuses are located in prominent and easily accessible areas across the city of Bangalore, India. CMR has also partnered with the National Education Trust to found the NPS International School on a lush 6 acre campus in Singapore.
-
-CMR Group of Institutions offers a wide range of courses from the Montessori level, K-12 Schools to Post Graduate and PhD programmes. Areas of study include engineering, education, law, management, media studies, biosciences, business administration, psychology, nursing and paramedical. Overall, there are 23 different courses offered at the undergraduate level, and 22 courses at the postgraduate level. These institutions promote academic and professional excellence in their respective fields.
-
-At CMR, we are continuously innovating our curriculum delivery, and strive to bring the best educational experience to the classroom. Our students benefit from the vast network of resources and cross competencies that the CMR Group has to offer. With a total of approximately 15000 students from across India and an international student body from over 58 countries, the academic environment is incredibly diverse and offers many rich opportunities for learning.
-			</p>
+				The selection is based on the CET ( Karnataka Management Aptitude Test) for filling up the seats of Government quota in the institute. </p>
+<p>For the Management quota, the selection is based on the score obtained by the student in any of the tests like PGCET and the aggregate percentage marks obtained in the qualifying degree examination. </p>
+<p>The minimum prescribed eligibility criteria by VTU and STATE GOVT OF KARNATAKA will be strictly adhered to.</p>
+			
+			
+			<div class="span6" id="staff-box">
+					          <div class="carousel-box">
+            <h2>Our Staffs</h2>
+			<hr />
+            <a id="prev"></a>
+	  	    <a id="next"></a>
+            <div class="carousel">
+                <ul>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
+                        <a href="#">Name 1</a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
+                        <a href="#">Name 2</a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
+                        <a href="#">Name 3</a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
+                        <a href="#">Name 4</a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
+                        <a href="#">Name 5</a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
+                        <a href="#">Name 6</a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
+                        <a href="#">Name 7</a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
+                        <a href="#">Name 8</a>
+                    </li>
+                </ul>
+            </div>
+</div>
+</div>
+			
 		</div>
 			<h2>Vision</h2>
 			<hr />
