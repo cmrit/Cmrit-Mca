@@ -32,33 +32,40 @@
 
 $(document).ready(function()
 {
-
-$(".drpdwn").mouseenter(function()
+$(".account").click(function()
 {
-$(".submenu").show();
-}).mouseleave(function(){
-setTimeout(function(){
+var X=$(this).attr('id');
+
+if(X==1)
+{
 $(".submenu").hide();
-}, 800);
+$(this).attr('id', '0');	
+}
+else
+{
+
+$(".submenu").show();
+$(this).attr('id', '1');
+}
+	
 });
 
-//Mouse click on sub menu
+//Mouseup textarea false
 $(".submenu").mouseup(function()
 {
 return false
 });
-
-//Mouse click on my account link
 $(".account").mouseup(function()
 {
 return false
 });
 
 
-//Document Click
+//Textarea without editing.
 $(document).mouseup(function()
 {
 $(".submenu").hide();
 $(".account").attr('id', '');
 });
+	
 });
