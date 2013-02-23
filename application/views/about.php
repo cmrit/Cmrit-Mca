@@ -29,13 +29,13 @@
 				<div class="span9 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li><a href="<?php echo base_url(); ?>">Home</a></li>
-							<li class="active drpdwn"><a href="#">about us</a>
+							<li class="active"><a href="#" class="account">about us</a>
 								<div class="submenu">
 								<ul class="root">
-									<li ><a href="#">Link 1</a></li>
-									<li ><a href="#">Link 2</a></li>
-									<li ><a href="#">Link 3</a></li>
-									<li ><a href="#">Link 4</a></li>
+									<li ><a href="<?php echo base_url().'about'; ?>">Vision</a></li>
+									<li ><a href="<?php echo base_url().'about'; ?>">Mission</a></li>
+									<li ><a href="<?php echo base_url().'about'; ?>">About Department</a></li>
+									<li ><a href="<?php echo base_url().'about'; ?>">Our Staffs</a></li>
 								</ul>
 								</div>
 							</li>
