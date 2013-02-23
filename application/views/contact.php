@@ -13,7 +13,7 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 	<script src="<?php echo base_url(); ?>js/jquery-1.7.1.min.js"></script>
-	<script src="<?php echo base_url(); ?>js/jquery.js"></script>
+	<script src="<?php echo base_url(); ?>js/slider-dropdown.js"></script>
 	<script src="<?php echo base_url(); ?>js/tms-0.4.1.js"></script>
 
   </head>
