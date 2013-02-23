@@ -96,7 +96,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 <div class="blocks">
 	<div class="span10">
 		          <div class="carousel-box">
-            <span>Upcoming Events</span>
+            <span>Events</span>
             <a id="prev"></a>
 	  	    <a id="next"></a>
             <div class="carousel">
