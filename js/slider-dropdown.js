@@ -1,36 +1,4 @@
-      $(window).load(function(){
-          $('.slider')._TMS({
-              show:0,
-              pauseOnHover:false,
-              playBu:false,
-              duration:1000,
-              preset:'fade', 
-              pagination:true,//'.pagination',true,'<ul></ul>'
-              pagNums:false,
-              slideshow:6000,
-              numStatus:false,
-              banners:'fromRight',
-		      waitBannerAnimation:false,
-			  progressBar:false
-          })
-		  $(function() {
-             $(".carousel").jCarouselLite({	
-                  btnNext: "#next",
-                  btnPrev: "#prev",
-                  easing:"easeOutBack",
-                  speed: 700
-             });
-          });		
-		  $('.cycle-div').cycle({ 
-		    fx:     'fade', 
-		    speed:  1000, 
-		    timeout: 0, 
-		    next:   '#next2', 
-		    prev:   '#prev2' 
-		 });
-      })
-
-$(document).ready(function()
+ $(document).ready(function()
 {
 $(".account").click(function()
 {
@@ -69,3 +37,28 @@ $(".account").attr('id', '');
 });
 	
 });
+
+     $(window).load(function(){
+          $('.slider')._TMS({
+              show:0,
+              pauseOnHover:false,
+              playBu:false,
+              duration:1000,
+              preset:'fade', 
+              pagination:true,//'.pagination',true,'<ul></ul>'
+              pagNums:false,
+              slideshow:6000,
+              numStatus:false,
+              banners:'fromRight',
+		      waitBannerAnimation:false,
+			  progressBar:false
+          })
+		  $(function() {
+             $(".carousel").jCarouselLite({	
+                  btnNext: "#next",
+                  btnPrev: "#prev",
+                  easing:"easeOutBack",
+                  speed: 700
+             });
+          });		
+      })
