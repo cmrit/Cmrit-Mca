@@ -17,7 +17,7 @@
     <script src="<?php echo base_url(); ?>js/jquery.easing.1.3.js"></script>
     <script src="<?php echo base_url(); ?>js/tms-0.4.1.js"></script>
     <script src="<?php echo base_url(); ?>js/jcarousellite.js" type="text/javascript"></script>
-	<script src="<?php echo base_url(); ?>js/jquery.js"></script>
+	<script src="<?php echo base_url(); ?>js/slider-dropdown.js"></script>
 	
 
   </head>
