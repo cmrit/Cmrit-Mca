@@ -6327,6 +6327,7 @@ text-align:center;
 	margin-top:-3px;
 	max-width: 100%;
      }
+	 
 .carousel-box {position:relative;}
 .carousel-box>span{
 	font-family: 'Voltaire', sans-serif;
@@ -6338,12 +6339,21 @@ text-align:center;
 	margin-bottom:22px;
 	}
 
-.carousel ul li {
+#p1 .carousel ul li {
 	width:236px;
 	text-align:left;
 	padding-left:4px;
 	position:relative;
 	padding-top:3px;
+    }
+	
+#p2 .carousel ul li {
+	width:150px;
+	text-align:left;
+	padding-left:4px;
+	position:relative;
+	padding-top:3px;
+	text-align: center;
     }
 	
 .carousel ul li img{
@@ -6446,4 +6456,8 @@ box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
 
 .root {
 	list-style:none;
+}
+
+#staff-box {
+	margin-left: 0px;
 }
