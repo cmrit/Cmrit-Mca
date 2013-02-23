@@ -28,13 +28,13 @@
 				<div class="span9 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li><a href="<?php echo base_url(); ?>">Home</a></li>
-							<li class="drpdwn"><a href="<?php echo base_url().'about'; ?>">about us</a>
+							<li class="drpdwn"><a href="#">about us</a>
 								<div class="submenu">
 								<ul class="root">
-									<li ><a href="#">Link 1</a></li>
-									<li ><a href="#">Link 2</a></li>
-									<li ><a href="#">Link 3</a></li>
-									<li ><a href="#">Link 4</a></li>
+									<li ><a href="#">Vision</a></li>
+									<li ><a href="#">Mission</a></li>
+									<li ><a href="#">About Department</a></li>
+									<li ><a href="#">Our Staffs</a></li>
 								</ul>
 								</div>
 							</li>
@@ -42,7 +42,7 @@
 							<li><a href="<?php echo base_url(); ?>">Beyond Syllabus</a></li>
 							<li><a href="<?php echo base_url(); ?>">Research Initiatives</a></li>
 							<li><a href="<?php echo base_url(); ?>">Achievements</a></li>
-							<li><a href="<?php echo base_url().'contact'; ?>">Contacts</a></li>
+							<li class="active"><a href="<?php echo base_url().'contact'; ?>">Contacts</a></li>
 						</ul>    				
 				</div>
 				
