@@ -36,6 +36,7 @@
 									<li ><a href="<?php echo base_url().'about'; ?>">Mission</a></li>
 									<li ><a href="<?php echo base_url().'about'; ?>">About Department</a></li>
 									<li ><a href="<?php echo base_url().'about'; ?>">Our Staffs</a></li>
+									<li ><a href="<?php echo base_url().'course'; ?>">Course Details</a></li>
 								</ul>
 								</div>
 							</li>
