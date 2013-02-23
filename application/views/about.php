@@ -29,7 +29,7 @@
 				<div class="span9 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li><a href="<?php echo base_url(); ?>">Home</a></li>
-							<li class="active drpdwn"><a href="<?php echo base_url().'about'; ?>">about us</a>
+							<li class="active drpdwn"><a href="#">about us</a>
 								<div class="submenu">
 								<ul class="root">
 									<li ><a href="#">Link 1</a></li>
