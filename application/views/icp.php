@@ -31,7 +31,7 @@
 				<div class="span9 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li><a href="<?php echo base_url(); ?>">Home</a></li>
-							<li class="active"><a href="#" class="account">about us</a>
+							<li id="about"><a href="#" class="account">about us</a>
 								<div class="submenu">
 								<ul class="root">
 									<li ><a href="<?php echo base_url().'about'; ?>">Vision</a></li>
@@ -43,7 +43,7 @@
 								</div>
 							</li>
 							<li><a href="<?php echo base_url(); ?>">admission</a></li>
-							<li id="beyond"><a href="#" class="account">Beyond Syllabus</a>
+							<li id="beyond" class="active"><a href="#" class="account">Beyond Syllabus</a>
 								<div class="submenu">
 								<ul class="root">
 									<li ><a href="<?php echo base_url().'lifeskill'; ?>">Life Skills</a></li>
@@ -76,80 +76,29 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 
 <div class="content">
 <div class="span10">
-<div class="span6 pull-right">
-			<h2>About Department</h2>
+<div class="span4 pull-right">
+			<h2>&nbsp;</h2>
 			<hr />
-			<p>
-				The selection is based on the CET ( Karnataka Management Aptitude Test) for filling up the seats of Government quota in the institute. </p>
-<p>For the Management quota, the selection is based on the score obtained by the student in any of the tests like PGCET and the aggregate percentage marks obtained in the qualifying degree examination. </p>
-<p>The minimum prescribed eligibility criteria by VTU and STATE GOVT OF KARNATAKA will be strictly adhered to.</p>
-			
-			
-			<div class="span6" id="staff-box">
-					          <div class="carousel-box">
-            <h2>Our Staffs</h2>
-			<hr />
-            <a id="prev"></a>
-	  	    <a id="next"></a>
-            <div class="carousel">
-                <ul>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 1</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 2</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 3</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 4</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 5</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 6</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 7</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 8</a>
-                    </li>
-                </ul>
-            </div>
-</div>
-</div>
-			
+							<img src="<?php echo base_url(); ?>images/icp.jpg" class="thumbnail"/>
 		</div>
-			<h2>Vision</h2>
+			<h2>ICP Process</h2>
 			<hr />
-			<p>
-			To create, build and provide value added educational services through teaching, training, 
-			research, consultancy and entrepreneurship within and beyond the curriculum, by means of quality 
-			infrastructure, material and human resources to attain intellectual heights.
+<p>
+The Department also realizes the fact that not all students learn at the same pace. Some students need extra attention in order to understand the concepts being discussed in class. Our attempt is to focus on this set of students who have either failed or may have remained absent in the internal exams by conducting Intensive Coaching Program (ICP) sessions.
+</p>
+<p>
+ In order to assist the students in their attempt to improve their performance, the Faculty conduct additional sessions at regular intervals, that help students grasp the concepts better and serves as an impetus to perform better in the forthcoming examinations and finally at the University examinations.
+</p>
+<p>
+The program requires constant interaction between the faculty in charge and the student. Once the results of the Internal exam is declared, a list of failed/absent candidates is drawn up, subject-wise, and accordingly a Faculty-wise Time Table is created for scheduling these additional ICP sessions. The concerned faculty in charge draws up a Plan of Action for the measures to be taken and at the end of these sessions we analyze the performance of the students in the following exam.  
+</p>
+<p>
+It is a continuous process and is aimed at achieving the best possible performance for all students. We also conduct sessions for the students failed in University examinations, so that they could do better in the next attempt.
+
 			</p>
 			
 			<div class="clear"></div>
 		
-			<h2>Mission Statement</h2>
-			<hr />
-			<p>
-				<ul>
-				<li>Give the community genuine, talented, upto date, motivated and trained professionals.</li>
-<li>Develop all institutions as model institutions which will enable the students or the parents to realise their ambition / dream in a more structured and positive manner.</li>
-<li>Inculcate the right values, scientific temperament and social commitment amongst the students and ensure they become right partners of progress.</li>
-				</ul>
-			</p>
 		</div>
 </div>
 

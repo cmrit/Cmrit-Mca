@@ -28,7 +28,7 @@
 				<div class="span9 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li><a href="<?php echo base_url(); ?>">Home</a></li>
-							<li><a href="#" class="account">about us</a>
+							<li id="about"><a href="#" class="account">about us</a>
 								<div class="submenu">
 								<ul class="root">
 									<li ><a href="<?php echo base_url().'about'; ?>">Vision</a></li>

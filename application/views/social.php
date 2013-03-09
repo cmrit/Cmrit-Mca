@@ -31,7 +31,7 @@
 				<div class="span9 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li><a href="<?php echo base_url(); ?>">Home</a></li>
-							<li class="active"><a href="#" class="account">about us</a>
+							<li id="about"><a href="#" class="account">about us</a>
 								<div class="submenu">
 								<ul class="root">
 									<li ><a href="<?php echo base_url().'about'; ?>">Vision</a></li>
@@ -43,7 +43,7 @@
 								</div>
 							</li>
 							<li><a href="<?php echo base_url(); ?>">admission</a></li>
-							<li id="beyond"><a href="#" class="account">Beyond Syllabus</a>
+							<li id="beyond" class="active"><a href="#" class="account">Beyond Syllabus</a>
 								<div class="submenu">
 								<ul class="root">
 									<li ><a href="<?php echo base_url().'lifeskill'; ?>">Life Skills</a></li>
@@ -76,80 +76,26 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 
 <div class="content">
 <div class="span10">
-<div class="span6 pull-right">
-			<h2>About Department</h2>
+<div class="span4 pull-right">
+			<h2>&nbsp;</h2>
 			<hr />
-			<p>
-				The selection is based on the CET ( Karnataka Management Aptitude Test) for filling up the seats of Government quota in the institute. </p>
-<p>For the Management quota, the selection is based on the score obtained by the student in any of the tests like PGCET and the aggregate percentage marks obtained in the qualifying degree examination. </p>
-<p>The minimum prescribed eligibility criteria by VTU and STATE GOVT OF KARNATAKA will be strictly adhered to.</p>
-			
-			
-			<div class="span6" id="staff-box">
-					          <div class="carousel-box">
-            <h2>Our Staffs</h2>
-			<hr />
-            <a id="prev"></a>
-	  	    <a id="next"></a>
-            <div class="carousel">
-                <ul>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 1</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 2</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 3</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 4</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 5</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 6</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 7</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 8</a>
-                    </li>
-                </ul>
-            </div>
-</div>
-</div>
-			
+							<img src="<?php echo base_url(); ?>images/social.jpg" class="thumbnail"/>
 		</div>
-			<h2>Vision</h2>
+			<h2>Social Concern</h2>
 			<hr />
-			<p>
-			To create, build and provide value added educational services through teaching, training, 
-			research, consultancy and entrepreneurship within and beyond the curriculum, by means of quality 
-			infrastructure, material and human resources to attain intellectual heights.
+<p>
+We, in many forms, latently borrow a lot from the Society that helps us become a successful professional in life. And most of the times, this remains a neglected part of life, making each of us realize, at least at one or more instances that we wanted to do something in return for the Society.
+</p>
+<p>
+We being in the noble profession of Education get a wonderful opportunity to do our part by offering our services to the less-fortunate citizens by the means of regular interventions under the banner of “Sahyog” – the Social Concern activity conducted by the Department.
+</p>
+<p>
+Under “Sahyog”, we organize ‘Shramdaan’ and Donation of Groceries and other essentials at Old Age Homes and Orphanages.
+
 			</p>
 			
 			<div class="clear"></div>
 		
-			<h2>Mission Statement</h2>
-			<hr />
-			<p>
-				<ul>
-				<li>Give the community genuine, talented, upto date, motivated and trained professionals.</li>
-<li>Develop all institutions as model institutions which will enable the students or the parents to realise their ambition / dream in a more structured and positive manner.</li>
-<li>Inculcate the right values, scientific temperament and social commitment amongst the students and ensure they become right partners of progress.</li>
-				</ul>
-			</p>
 		</div>
 </div>
 

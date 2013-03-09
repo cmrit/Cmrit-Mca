@@ -31,7 +31,7 @@
 				<div class="span9 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li><a href="<?php echo base_url(); ?>">Home</a></li>
-							<li class="active"><a href="#" class="account">about us</a>
+							<li id="about"><a href="#" class="account">about us</a>
 								<div class="submenu">
 								<ul class="root">
 									<li ><a href="<?php echo base_url().'about'; ?>">Vision</a></li>
@@ -43,7 +43,7 @@
 								</div>
 							</li>
 							<li><a href="<?php echo base_url(); ?>">admission</a></li>
-							<li id="beyond"><a href="#" class="account">Beyond Syllabus</a>
+							<li id="beyond" class="active"><a href="#" class="account">Beyond Syllabus</a>
 								<div class="submenu">
 								<ul class="root">
 									<li ><a href="<?php echo base_url().'lifeskill'; ?>">Life Skills</a></li>
@@ -76,80 +76,26 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 
 <div class="content">
 <div class="span10">
-<div class="span6 pull-right">
-			<h2>About Department</h2>
+<div class="span4 pull-right">
+			<h2>&nbsp;</h2>
 			<hr />
-			<p>
-				The selection is based on the CET ( Karnataka Management Aptitude Test) for filling up the seats of Government quota in the institute. </p>
-<p>For the Management quota, the selection is based on the score obtained by the student in any of the tests like PGCET and the aggregate percentage marks obtained in the qualifying degree examination. </p>
-<p>The minimum prescribed eligibility criteria by VTU and STATE GOVT OF KARNATAKA will be strictly adhered to.</p>
-			
-			
-			<div class="span6" id="staff-box">
-					          <div class="carousel-box">
-            <h2>Our Staffs</h2>
-			<hr />
-            <a id="prev"></a>
-	  	    <a id="next"></a>
-            <div class="carousel">
-                <ul>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 1</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 2</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 3</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 4</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 5</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 6</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 7</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 8</a>
-                    </li>
-                </ul>
-            </div>
-</div>
-</div>
-			
+							<img src="<?php echo base_url(); ?>images/guest.jpg" class="thumbnail"/>
 		</div>
-			<h2>Vision</h2>
+			<h2>Guest Lectures</h2>
 			<hr />
-			<p>
-			To create, build and provide value added educational services through teaching, training, 
-			research, consultancy and entrepreneurship within and beyond the curriculum, by means of quality 
-			infrastructure, material and human resources to attain intellectual heights.
+<p>
+Knowledge is not just gathered from books; it is also gained from experience. In order to provide our students that extra edge, we regularly conduct guest lectures to complement our regular sessions, in turn helping the students to gain more knowledge on a particular topic. 
+</p>
+<p>
+The speakers are usually those with a proven expertise in the Industry, who can share their experiences and insights on how students should be prepared for the challenges of the workplace, career requirements and the Industry in general, while relating it to the domain-specific expert knowledge.
+</p>
+<p>
+Their insights are truly valuable to the students who get immense ideas about what to expect from the Industry and as to how to make themselves more employable. Also, they get a clear idea about how to chart their careers so as to balance their work and personal issues, helping them lead a satisfying life. 
+
 			</p>
 			
 			<div class="clear"></div>
 		
-			<h2>Mission Statement</h2>
-			<hr />
-			<p>
-				<ul>
-				<li>Give the community genuine, talented, upto date, motivated and trained professionals.</li>
-<li>Develop all institutions as model institutions which will enable the students or the parents to realise their ambition / dream in a more structured and positive manner.</li>
-<li>Inculcate the right values, scientific temperament and social commitment amongst the students and ensure they become right partners of progress.</li>
-				</ul>
-			</p>
 		</div>
 </div>
 

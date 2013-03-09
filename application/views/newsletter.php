@@ -31,7 +31,7 @@
 				<div class="span9 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li><a href="<?php echo base_url(); ?>">Home</a></li>
-							<li class="active"><a href="#" class="account">about us</a>
+							<li id="about"><a href="#" class="account">about us</a>
 								<div class="submenu">
 								<ul class="root">
 									<li ><a href="<?php echo base_url().'about'; ?>">Vision</a></li>
@@ -43,7 +43,7 @@
 								</div>
 							</li>
 							<li><a href="<?php echo base_url(); ?>">admission</a></li>
-							<li id="beyond"><a href="#" class="account">Beyond Syllabus</a>
+							<li id="beyond" class="active"><a href="#" class="account">Beyond Syllabus</a>
 								<div class="submenu">
 								<ul class="root">
 									<li ><a href="<?php echo base_url().'lifeskill'; ?>">Life Skills</a></li>
@@ -76,80 +76,33 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 
 <div class="content">
 <div class="span10">
-<div class="span6 pull-right">
-			<h2>About Department</h2>
+<div class="span4 pull-right">
+			<h2>&nbsp;</h2>
 			<hr />
-			<p>
-				The selection is based on the CET ( Karnataka Management Aptitude Test) for filling up the seats of Government quota in the institute. </p>
-<p>For the Management quota, the selection is based on the score obtained by the student in any of the tests like PGCET and the aggregate percentage marks obtained in the qualifying degree examination. </p>
-<p>The minimum prescribed eligibility criteria by VTU and STATE GOVT OF KARNATAKA will be strictly adhered to.</p>
-			
-			
-			<div class="span6" id="staff-box">
-					          <div class="carousel-box">
-            <h2>Our Staffs</h2>
-			<hr />
-            <a id="prev"></a>
-	  	    <a id="next"></a>
-            <div class="carousel">
-                <ul>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 1</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 2</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 3</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 4</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 5</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 6</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 7</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 8</a>
-                    </li>
-                </ul>
-            </div>
-</div>
-</div>
-			
+							<img src="<?php echo base_url(); ?>images/guest.jpg" class="thumbnail"/>
 		</div>
-			<h2>Vision</h2>
+			<h2>News Letter</h2>
 			<hr />
-			<p>
-			To create, build and provide value added educational services through teaching, training, 
-			research, consultancy and entrepreneurship within and beyond the curriculum, by means of quality 
-			infrastructure, material and human resources to attain intellectual heights.
+<p>
+College life is not just academics. The key to success is determination and inspiration. We strongly believe “a sound goal with high motivation will lead to success”.
+</p>
+<p>
+<strong><i>“Seasonal Delights”</i>- A platform to turn our Visions to Action</strong>
+</p>
+<p>
+The publication of the newsletter by the Department would highlight its various activities and achievements along with individual talent performed outside the workspace. Be it Technical, Community service, Dramatics, Public Speaking, Photography, Artistic or Literary events, the platform Cheer Leads.
+</p>
+<p>
+Each edition reflects the thoughts and creativity of our students on various aspects. The e-Newsletter has four editions namely Rain Ripples, Spring Splash, Winter Wizard and Summer Spark named in symphony with the month of their release, respectively being the end of September, November, March and May.
+</p>
+<p>
+As every season has its own charm, each of our editions has its own significance. We wish to shower our love towards Mother Nature and our feelings of patriotism would pour out with the Rain Ripple. The traditions of our varied culture will bloom through the Spring Splash. Sports enthusiasts would be frozen with the moments captured by our Winter Wizard and our bright graduates would shine brilliantly with the Summer Spark.
+
+
 			</p>
 			
 			<div class="clear"></div>
 		
-			<h2>Mission Statement</h2>
-			<hr />
-			<p>
-				<ul>
-				<li>Give the community genuine, talented, upto date, motivated and trained professionals.</li>
-<li>Develop all institutions as model institutions which will enable the students or the parents to realise their ambition / dream in a more structured and positive manner.</li>
-<li>Inculcate the right values, scientific temperament and social commitment amongst the students and ensure they become right partners of progress.</li>
-				</ul>
-			</p>
 		</div>
 </div>
 
