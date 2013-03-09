@@ -81,10 +81,10 @@
                              </div>
                          </div>
 					</li>
-				    <li><img src="<?php echo base_url(); ?>images/slide-1.jpg" alt="" />
+				    <li><img src="<?php echo base_url(); ?>images/slide-3.jpg" alt="" />
 						<div class="banner">
-							<div class="banner-inner">
-									<span><strong>It's never </strong>too late to study!</span>
+							<div class="banner-inner">									
+									<span><strong>Knowledge</strong>  is power!</span>
 							        <p>Vivamus et metus non lorem ullamcorper aliquam tempus molestie nunc.</p>
 							</div>
 						</div>
@@ -97,10 +97,10 @@
 							</div>
 						</div>
 					</li>
-					<li><img src="<?php echo base_url(); ?>images/slide-3.jpg" alt="" />
+					<li><img src="<?php echo base_url(); ?>images/slide-1.jpg" alt="" />
 						<div class="banner">
 							<div class="banner-inner">
-							        <span><strong>Knowledge</strong>  is power!</span>
+							        <span><strong>It's never </strong>too late to study!</span>
 							        <p>Vivamus et metus non lorem ullamcorper aliquam tempus molestie nunc.</p>
 							</div>
 						</div>
