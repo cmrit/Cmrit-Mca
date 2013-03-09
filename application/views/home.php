@@ -124,35 +124,35 @@ Department Of <span style="color:#a6b032;"> MCA</span>
             <div class="carousel">
                 <ul>
                     <li>
-                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
+                        <img src="<?php echo base_url(); ?>images/event-sahyog-12.jpg" alt="" class="thumbnail">
+                        <a href="#">Sahyog 2012</a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/resolution-12.jpg" alt="" class="thumbnail">
+                        <a href="#">Resolution '12</a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/event-sahyog-11.jpg" alt="" class="thumbnail">
+                        <a href="#">Sahyog 2011</a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/event-sahyog-10.jpg" alt="" class="thumbnail">
+                        <a href="#">Sahyog 2010</a>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="" class="thumbnail">
                         <a href="#">Class aptent taciti<br> sociosqu ad litora torquent.</a>
                     </li>
                     <li>
-                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
+                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="" class="thumbnail">
                         <a href="#">Phasellus pharetra<br>interdum ante sit amettinc. </a>
                     </li>
                     <li>
-                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
+                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="" class="thumbnail">
                         <a href="#">Aenean pulvinar porta velit <br> quis scelerisque.</a>
                     </li>
                     <li>
-                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
-                        <a href="#">dolore magna aliquam <br> erat volutpat.</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
-                        <a href="#">Class aptent taciti<br> sociosqu ad litora torquent.</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
-                        <a href="#">Phasellus pharetra<br>interdum ante sit amettinc. </a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
-                        <a href="#">Aenean pulvinar porta velit <br> quis scelerisque.</a>
-                    </li>
-                    <li>
-                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="">
+                        <img src="<?php echo base_url(); ?>images/page-img.jpg" alt="" class="thumbnail">
                         <a href="#">dolore magna aliquam <br> erat volutpat.</a>
                     </li>
                 </ul>
