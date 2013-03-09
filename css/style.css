@@ -6394,6 +6394,7 @@ margin-left:40px;
 .font-8 {font-size:11px;color:#7f7f7f; font-weight:bold}
 
 h2 {font-family: 'Voltaire', sans-serif; font-size:24px; line-height:32px; color:#646464; text-transform:uppercase; margin:10px 0 30px; font-weight:400; letter-spacing:-0.5px}
+h3 {font-family: 'Voltaire', sans-serif; font-size:22px; font-style:italic; line-height:32px; color:#646464; text-transform:uppercase; margin:10px 0 30px; font-weight:400; letter-spacing:-0.5px; text-align: center;}
 
 .top-01 {margin-top:-5px !important}
 .top-02 {margin-top:-3px !important}
