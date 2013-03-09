@@ -39,8 +39,17 @@
 */
 
 $route['default_controller'] = "welcome";
+$route['lifeskill'] = "welcome/lifeskill";
+$route['extra'] = "welcome/extra";
 $route['about'] = "welcome/about";
 $route['contact'] = "welcome/contact";
+$route['counseling'] = "welcome/counseling";
+$route['guest'] = "welcome/guest";
+$route['icp'] = "welcome/icp";
+$route['newsletter'] = "welcome/newsletter";
+$route['social'] = "welcome/social";
+$route['technical'] = "welcome/technical";
+$route['course'] = "welcome/course";
 $route['404_override'] = '';
 
 
