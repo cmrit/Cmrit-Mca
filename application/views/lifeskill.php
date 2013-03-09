@@ -79,7 +79,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 <div class="span4 pull-right">
 			<h2>&nbsp;</h2>
 			<hr />
-							<img src="<?php echo base_url(); ?>images/guest.jpg" class="thumbnail"/>
+							<img src="<?php echo base_url(); ?>images/lifeskill.jpg" class="thumbnail"/>
 		</div>
 			<h2>Life Skills</h2>
 			<hr />
