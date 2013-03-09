@@ -40,7 +40,20 @@
 								</div>
 							</li>
 							<li><a href="<?php echo base_url(); ?>">admission</a></li>
-							<li><a href="<?php echo base_url(); ?>">Beyond Syllabus</a></li>
+							<li id="beyond"><a href="#" class="account">Beyond Syllabus</a>
+								<div class="submenu">
+								<ul class="root">
+									<li ><a href="<?php echo base_url().'lifeskill'; ?>">Life Skills</a></li>
+									<li ><a href="<?php echo base_url().'extra'; ?>">Extra Curricular</a></li>
+									<li ><a href="<?php echo base_url().'counseling'; ?>">Counseling</a></li>
+									<li ><a href="<?php echo base_url().'guest'; ?>">Guest Lectures</a></li>
+									<li ><a href="<?php echo base_url().'icp'; ?>">ICP Process</a></li>
+									<li ><a href="<?php echo base_url().'newsletter'; ?>">News letter</a></li>
+									<li ><a href="<?php echo base_url().'social'; ?>">Social Concern</a></li>
+									<li ><a href="<?php echo base_url().'technical'; ?>">Technical Fest</a></li>
+								</ul>
+								</div>
+								</li>
 							<li><a href="<?php echo base_url(); ?>">Research Initiatives</a></li>
 							<li><a href="<?php echo base_url(); ?>">Achievements</a></li>
 							<li class="active"><a href="<?php echo base_url().'contact'; ?>">Contacts</a></li>
