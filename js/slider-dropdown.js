@@ -26,18 +26,36 @@
 $(document).ready(function()
 {
 
-$(this).click(function()
+$("#about .account").click(function()
 {
 var X=$(this).attr('id');
 
 if(X==1)
 {
-$(".submenu").hide();
+$("#about .submenu").hide();
 $(this).attr('id', '0');	
 }
 else
 {
-$(".submenu").show();
+$("#about .submenu").show();
+$(this).attr('id', '1');
+
+}
+	
+});
+
+$("#beyond .account").click(function()
+{
+var X=$(this).attr('id');
+
+if(X==1)
+{
+$("#beyond .submenu").hide();
+$(this).attr('id', '0');	
+}
+else
+{
+$("#beyond .submenu").show();
 $(this).attr('id', '1');
 
 }
