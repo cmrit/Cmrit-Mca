@@ -32,6 +32,51 @@ class Welcome extends CI_Controller {
 		$this->load->view("contact");
 	}
 	
+	public function lifeskill()
+	{
+		$this->load->view("lifeskill");
+	}
+	
+	public function extra()
+	{
+		$this->load->view("extra");
+	}
+	
+	public function counseling()
+	{
+		$this->load->view("counseling");
+	}
+	
+	public function guest()
+	{
+		$this->load->view("guest");
+	}
+	
+	public function icp()
+	{
+		$this->load->view("icp");
+	}
+	
+	public function newsletter()
+	{
+		$this->load->view("newsletter");
+	}
+	
+	public function social()
+	{
+		$this->load->view("social");
+	}
+	
+	public function technical()
+	{
+		$this->load->view("technical");
+	}
+	
+	public function course()
+	{
+		$this->load->view("course");
+	}
+	
 }
 
 /* End of file welcome.php */
