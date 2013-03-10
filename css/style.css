@@ -6466,3 +6466,22 @@ box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
 #staff-box {
 	margin-left: 0px;
 }
+
+div.nomargin{
+	margin-right:0px;
+}
+
+.gallery-pic{
+	float:left;
+	margin:0 15px 15px 0;
+	border:5px solid white;
+	width:200px;
+	height:250px;
+}
+
+.gallery-pic a{
+	width:200px;
+	height:250px;
+	text-indent:-99999px;
+	display:block;
+}
