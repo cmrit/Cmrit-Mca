@@ -6358,13 +6358,17 @@ text-align:center;
     }
 	
 .carousel ul li img{
-
 	margin-bottom:20px;
+	margin-left: auto;
+    margin-right: auto;
 	}
 .carousel ul li a{
 	color:#274866;
 	}
-	.carousel ul li a:hover{color:#a6b032;}
+	.carousel ul li a:hover {
+	color:#a6b032;
+	text-decoration: none;
+	}
 
 #p1 .blocks {
 background:url(../images/blocks.png) repeat-x left top #f7f7f7; 
