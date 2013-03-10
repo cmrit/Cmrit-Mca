@@ -62,4 +62,13 @@ $(this).attr('id', '1');
 	
 });
 
+$('.gallery-pic a').lightBox({
+		
+		imageLoading: '../images/loading.gif',
+		imageBtnClose: '../images/close.gif',
+		imageBtnPrev: '../images/prev.gif',
+		imageBtnNext: '../images/next.gif'
+
+	});
+
 });
