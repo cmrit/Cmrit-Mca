@@ -50,7 +50,7 @@ $route['newsletter'] = "welcome/newsletter";
 $route['social'] = "welcome/social";
 $route['technical'] = "welcome/technical";
 $route['course'] = "welcome/course";
-$route['gallery/(:num)'] = "welcome/gallery/$1";
+$route['gallery/(:any)'] = "welcome/gallery/$1";
 $route['404_override'] = '';
 
 
