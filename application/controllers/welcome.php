@@ -1,7 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 class Welcome extends CI_Controller {
-
 	/**
 	 * Index Page for this controller.
 	 *
@@ -75,6 +74,15 @@ class Welcome extends CI_Controller {
 	public function course()
 	{
 		$this->load->view("course");
+	}
+	
+	var $album;
+	
+	public function gallery()
+	{
+		$this->album = $this->uri->segment(2);
+		$data['album'] = $this->album;
+		$this->load->view("gallery", $data);
 	}
 	
 }
