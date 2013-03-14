@@ -13,7 +13,8 @@
     <script src="<?php echo base_url(); ?>js/jquery.easing.1.3.js"></script>
     <script src="<?php echo base_url(); ?>js/tms-0.4.1.js"></script>
     <script src="<?php echo base_url(); ?>js/jcarousellite.js" type="text/javascript"></script>
-	<script src="<?php echo base_url(); ?>js/slider-dropdown.js"></script>
+	<script src="<?php echo base_url(); ?>js/jquery.lightbox-0.5.pack.js"></script>
+	<script src="<?php echo base_url(); ?>js/bootstrap.js"></script>
 
 	<link href='http://fonts.googleapis.com/css?family=Voltaire' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
@@ -31,7 +32,7 @@
 				<div class="span9 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li><a href="<?php echo base_url(); ?>">Home</a></li>
-							<li class="active"><a href="#" class="account">about us</a>
+							<li id="about" class="active"><a href="#" class="account">about us</a>
 								<div class="submenu">
 								<ul class="root">
 									<li ><a href="<?php echo base_url().'about'; ?>">Vision</a></li>
@@ -94,36 +95,73 @@ Department Of <span style="color:#a6b032;"> MCA</span>
             <div class="carousel">
                 <ul>
                     <li>
+					<a href="#myModal" data-toggle="modal" class="staff-img" data-name="Prof Rachna Sharma">
                         <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 1</a>
+                        Prof Rachna Sharma
+						</a>
                     </li>
                     <li>
+					<a href="#myModal" data-toggle="modal" class="staff-img">
                         <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 2</a>
+                        Dr. K. Prasada Rao</a>
                     </li>
                     <li>
+					<a href="#myModal" data-toggle="modal" class="staff-img">
                         <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 3</a>
+                        Mr. Nagendra N</a>
                     </li>
                     <li>
+					<a href="#myModal" data-toggle="modal" class="staff-img">
                         <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 4</a>
+                        Mr. Sudipto Das</a>
                     </li>
                     <li>
+					<a href="#myModal" data-toggle="modal" class="staff-img">
                         <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 5</a>
+                        Ms. B Nithya Ramesh</a>
                     </li>
                     <li>
+					<a href="#myModal" data-toggle="modal" class="staff-img">
                         <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 6</a>
+                        Ms. Usha Patnaik Das</a>
                     </li>
                     <li>
+					<a href="#myModal" data-toggle="modal" class="staff-img">
                         <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 7</a>
+                        Ms. Sathya</a>
                     </li>
                     <li>
+					<a href="#myModal" data-toggle="modal" class="staff-img">
                         <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
-                        <a href="#">Name 8</a>
+                        Mr. Basawraj</a>
+                    </li>
+					<li>
+					<a href="#myModal" data-toggle="modal" class="staff-img">
+                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
+                        Ms. T Gomathi</a>
+                    </li>
+					<li>
+					<a href="#myModal" data-toggle="modal" class="staff-img">
+                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
+                        Ms. Neha Agrawal</a>
+                    </li>
+					<li>
+					<a href="#myModal" data-toggle="modal" class="staff-img">
+                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
+                        Ms. Arshdeep Kaur</a>
+                    </li>
+					<li>
+					<a href="#myModal" data-toggle="modal" class="staff-img">
+                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
+                        Ms.Pratima V.Patil</a>
+                    </li>
+					<li>
+					<a href="#myModal" data-toggle="modal" class="staff-img">
+                        <img src="<?php echo base_url(); ?>images/p2-page-img.jpg" alt="">
+                        Ms. Bharti Chaubey</a>
+                    </li>
+					<li>
+                        &nbsp;
                     </li>
                 </ul>
             </div>
@@ -151,6 +189,25 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 				</ul>
 			</p>
 		</div>
+ 
+<!-- Modal -->
+<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3 id="myModalLabel">
+	<script>
+	
+	</script>
+	</h3>
+  </div>
+  <div class="modal-body">
+    <p>One fine body…</p>
+  </div>
+  <div class="modal-footer">
+    <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+    <button class="btn btn-primary">Save changes</button>
+  </div>
+</div>
 </div>
 
 
@@ -165,5 +222,89 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 
 	
     </div> <!-- /container -->
+	<script>
+	      $(window).load(function(){
+          $('.slider')._TMS({
+              show:0,
+              pauseOnHover:false,
+              playBu:false,
+              duration:1000,
+              preset:'fade', 
+              pagination:true,//'.pagination',true,'<ul></ul>'
+              pagNums:false,
+              slideshow:6000,
+              numStatus:false,
+              banners:'fromRight',
+		      waitBannerAnimation:false,
+			  progressBar:false
+          })
+		  $(function() {
+             $(".carousel").jCarouselLite({	
+                  btnNext: "#next",
+                  btnPrev: "#prev",
+                  easing:"easeOutBack",
+                  speed: 700
+             });
+          });		
+      })
+	  
+$(document).ready(function()
+{
+
+$("#about .account").click(function()
+{
+var X=$(this).attr('id');
+
+if(X==1)
+{
+$("#about .submenu").hide();
+$(this).attr('id', '0');	
+}
+else
+{
+$("#about .submenu").show();
+$(this).attr('id', '1');
+
+}
+	
+});
+
+$("#beyond .account").click(function()
+{
+var X=$(this).attr('id');
+
+if(X==1)
+{
+$("#beyond .submenu").hide();
+$(this).attr('id', '0');	
+}
+else
+{
+$("#beyond .submenu").show();
+$(this).attr('id', '1');
+
+}
+	
+});
+
+$('.gallery-pic a').lightBox({
+		
+		imageLoading: '../images/loading.gif',
+		imageBtnClose: '../images/close.gif',
+		imageBtnPrev: '../images/prev.gif',
+		imageBtnNext: '../images/next.gif'
+
+	});
+
+			$('.staff-img').click(function() {
+    $('#myModal').modal('show');
+    $('#myModal').on('shown', function() {
+        $("#myModal").focus();
+    });
+	});
+	
+});
+	
+	</script>
   </body>
 </html>

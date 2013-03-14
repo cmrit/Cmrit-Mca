@@ -170,24 +170,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 </div>
 </div>
 
-<div class="content row-fluid">
-		<div class="span4 well">
-				<p class="font-3">Block 1</p>
-				<ul class="top-1 list">
-					<li><a href="#">List1</a></li>
-					<li><a href="#">List2</a></li>
-					<li><a href="#">List3</a></li>
-					<li><a href="#">List3</a></li>
-					<li><a href="#">List4</a></li>
-				</ul>
-		</div>
-		<div class="span4">
-			<h2>Block 2</h2>
-		</div>
-		<div class="span3">
-			<h2>Block 3</h2>
-		</div>
-</div>
+
 
 
 <footer>

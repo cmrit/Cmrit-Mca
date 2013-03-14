@@ -14,6 +14,8 @@
     <script src="<?php echo base_url(); ?>js/tms-0.4.1.js"></script>
     <script src="<?php echo base_url(); ?>js/jcarousellite.js" type="text/javascript"></script>
 	<script src="<?php echo base_url(); ?>js/slider-dropdown.js"></script>
+	<script src="<?php echo base_url(); ?>js/jquery.lightbox-0.5.pack.js"></script>
+	<script src="<?php echo base_url(); ?>js/bootstrap.js"></script>
 
 	<link href='http://fonts.googleapis.com/css?family=Voltaire' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
@@ -31,7 +33,7 @@
 				<div class="span9 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li><a href="<?php echo base_url(); ?>">Home</a></li>
-							<li class="active"><a href="#" class="account">about us</a>
+							<li id="about" class="active"><a href="#" class="account">about us</a>
 								<div class="submenu">
 								<ul class="root">
 									<li ><a href="<?php echo base_url().'about'; ?>">Vision</a></li>

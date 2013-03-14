@@ -71,4 +71,6 @@ $('.gallery-pic a').lightBox({
 
 	});
 
+	
 });
+	
