@@ -43,7 +43,7 @@
 								</ul>
 								</div>
 							</li>
-							<li><a href="">Placement</a></li>
+							<li><a href="placement.php">Placement</a></li>
 							<li id="beyond" class="active"><a href="#" class="account">Beyond Syllabus</a>
 								<div class="submenu">
 								<ul class="root">
