@@ -85,13 +85,12 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 
 <?php
 
-$files = glob("images/gallery/".$album."/*.*");
+$files = glob("images/gallery/".$_GET['album']."/*.*");
 
 $title='';
 for ($i=1; $i<count($files); $i++)
 {
-$num = base_url();
-$num .= $files[$i];
+$num = $files[$i];
 
 echo '
 <div class="gallery-pic" style="background:url('.$num.') no-repeat 50% 50%;">
