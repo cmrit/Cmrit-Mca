@@ -55,8 +55,8 @@
 								</ul>
 								</div>
 								</li>
-							<li><a href="">Research Initiatives</a></li>
-							<li><a href="">Achievements</a></li>
+							<li><a href="research.php">Research Initiatives</a></li>
+							<li><a href="achievements.php">Achievements</a></li>
 							<li class="active"><a href="contact.php">Contacts</a></li>
 						</ul>    								
 				</div>
