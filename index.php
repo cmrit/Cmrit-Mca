@@ -126,7 +126,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
             <div class="carousel">
                 <ul>
                     <li>
-						<a href="gallery.php/sahyog12">
+						<a href="gallery.php?album=sahyog12">
                         <img src="images/event-sahyog-12.jpg" alt="" class="thumbnail">
                         Sahyog 2012</a>
                     </li>
