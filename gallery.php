@@ -88,7 +88,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 $files = glob("images/gallery/".$_GET['album']."/*.*");
 
 $title='';
-for ($i=1; $i<count($files); $i++)
+for ($i=0; $i<count($files); $i++)
 {
 $num = $files[$i];
 

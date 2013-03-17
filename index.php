@@ -131,39 +131,19 @@ Department Of <span style="color:#a6b032;"> MCA</span>
                         Sahyog 2012</a>
                     </li>
                     <li>
-						<a href="#">
+						<a href="gallery.php?album=sahyog11">
                         <img src="images/resolution-12.jpg" alt="" class="thumbnail">
                         Resolution '12</a>
                     </li>
                     <li>
-						<a href="#">
+						<a href="gallery.php?album=sahyog11">
                         <img src="images/event-sahyog-11.jpg" alt="" class="thumbnail">
                         Sahyog 2011</a>
                     </li>
                     <li>
-						<a href="#">
+						<a href="gallery.php?album=sahyog10">
                         <img src="images/event-sahyog-10.jpg" alt="" class="thumbnail">
                         Sahyog 2010</a>
-                    </li>
-                    <li>
-						<a href="#">
-                        <img src="images/page-img.jpg" alt="" class="thumbnail">
-                        Class aptent taciti<br> sociosqu ad litora torquent.</a>
-                    </li>
-                    <li>
-						<a href="#">
-                        <img src="images/page-img.jpg" alt="" class="thumbnail">
-                        Phasellus pharetra<br>interdum ante sit amettinc. </a>
-                    </li>
-                    <li>
-						<a href="#">
-                        <img src="images/page-img.jpg" alt="" class="thumbnail">
-                        Aenean pulvinar porta velit <br> quis scelerisque.</a>
-                    </li>
-                    <li>
-						<a href="#">
-                        <img src="images/page-img.jpg" alt="" class="thumbnail">
-                        dolore magna aliquam <br> erat volutpat.</a>
                     </li>
                 </ul>
             </div>

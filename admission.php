@@ -77,11 +77,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 
 <div class="content">
 <div class="span10">
-<div class="span4 pull-right">
-			<h2>&nbsp;</h2>
-			<hr />
-							<img src="images/technical.jpg" class="thumbnail"/>
-		</div>
+
 			<h2>Admission</h2>
 			<hr />
 <p>
