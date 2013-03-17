@@ -97,7 +97,263 @@ The students actively participate in sports events and cultural fests in other c
 Our students have always set high standards by winning several individual events as well as also the all-over championships in many colleges over the past few years.
 
 			</p>
-			
+			<div class="clear"></div>
+			<p align="center"><strong>YEAR : 2012-13</strong></p>
+			<table class="table table-bordered">
+			<tr>
+			<td>Sl No</td>
+			<td>College Name</td>
+			<td>Event</td>
+			<td>Number of Students Participated</td>
+			<td>Recognition</td>
+			</tr>
+			<tr>
+			<td>1.</td>
+			<td>Dayanand Sagar College of Engineering Bangalore</td>
+			<td>Web Designing</td>
+			<td>2</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>2.</td>
+			<td>Dayanand Sagar College of Engineering Bangalore</td>
+			<td>Ice Breaker</td>
+			<td>4</td>
+			<td>Second Prize</td>
+			</tr>
+			<tr>
+			<td>3.</td>
+			<td>Garden City College</td>
+			<td>Web Designing</td>
+			<td>2</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>6.</td>
+			<td>Garden City College</td>
+			<td>Drapping</td>
+			<td>2</td>
+			<td>First Prize & Second Prize</td>
+			</tr>
+			<tr>
+			<td>7.</td>
+			<td>Garden City College</td>
+			<td>Painting</td>
+			<td>2</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>8.</td>
+			<td>Garden City College</td>
+			<td>Brain Stretchers</td>
+			<td>2</td>
+			<td>Second Prize</td>
+			</tr>
+			<tr>
+			<td>9.</td>
+			<td>Garden City College</td>
+			<td>Encryption/Decryption</td>
+			<td>2</td>
+			<td>First Prize</td>
+			</table>
+			<p align="center"><strong>YEAR : 2011-12</strong></p>
+			<table class="table table-bordered">
+			<tr>
+			<td>Sl No</td>
+			<td>College Name</td>
+			<td>Event</td>
+			<td>Number of Students Participated</td>
+			<td>Recognition</td>
+			</tr>
+			</tr>
+			<tr>
+			<td>1.</td>
+			<td>MSRIT College of Engineering Bangalore</td>
+			<td>Web Designing</td>
+			<td>1</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>2.</td>
+			<td>MSRIT College of Engineering Bangalore</td>
+			<td>Naatech</td>
+			<td>6</td>
+			<td>Third Prize</td>
+			</tr>
+			<tr>
+			<td>3.</td>
+			<td>Garden City College Bangalore</td>
+			<td>Web Designing</td>
+			<td>2</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>4.</td>
+			<td>Garden City College of Engineering Bangalore</td>
+			<td>Rangoli</td>
+			<td>2</td>
+			<td>Second Prize</td>
+			</tr>
+			<tr>
+			<td>5.</td>
+			<td>Garden City College Bangalore</td>
+			<td>Technical Skit</td>
+			<td>7</td>
+			<td>First Place</td>
+			</tr>
+			<tr>
+			<td>6.</td>
+			<td>Garden City College Bangalore</td>
+			<td>Creative Writing</td>
+			<td>2</td>
+			<td>Second Prize</td>
+			</tr>
+			</table>
+			<p align="center"><strong>YEAR : 2010-11</strong></p>
+			<table class="table table-bordered">
+			<tr>
+			<td>Sl No</td>
+			<td>College Name</td>
+			<td>Event</td>
+			<td>Number of Students Participated</td>
+			<td>Recognition</td>
+			</tr>
+			<tr>
+			<td>1.</td>
+			<td>Dayanand Sagar College of Engineering Bangalore</td>
+			<td>Pixellate</td>
+			<td>1</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>2.</td>
+			<td>Dayanand Sagar College of Engineering Bangalore</td>
+			<td>Best Manager</td>
+			<td>1</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>3.</td>
+			<td>Dayanand Sagar College of Engineering Bangalore</td>
+			<td>Mad Ads</td>
+			<td>7</td>
+			<td>Second Prize</td>
+			</tr>
+			</table>
+			<p align="center"><strong>YEAR : 2009-10</strong></p>
+			<table class="table table-bordered">
+			<tr>
+			<td>Sl No</td>
+			<td>College Name</td>
+			<td>Event</td>
+			<td>Number of Students Participated</td>
+			<td>Recognition</td>
+			</tr>
+			<tr>
+			<td>1.</td>
+			<td>Mount Carmels</td>
+			<td>Plunder Chase</td>
+			<td>2</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>2.</td>
+			<td>Mount Carmels</td>
+			<td>Theme Flick</td>
+			<td>2</td>
+			<td>Second Prize</td>
+			</tr>
+			</table>
+			<p align="center"><strong>YEAR : 2008-09</strong></p>
+			<table class="table table-bordered">
+			<tr>
+			<td>Sl No</td>
+			<td>College Name</td>
+			<td>Event</td>
+			<td>Number of Students Participated</td>
+			<td>Recognition</td>
+			</tr>
+			<tr>
+			<td>1.</td>
+			<td>CMRIMS</td>
+			<td>Coding & Debugging</td>
+			<td>3</td>
+			<td>Second prize</td>
+			</tr>
+			<tr>
+			<td>2.</td>
+			<td>CMRIMS</td>
+			<td>Gaming</td>
+			<td>4</td>
+			<td>Third Prize</td>
+			</tr>
+			<tr>
+			<td>3.</td>
+			<td>MSRIT</td>
+			<td>IT Quiz</td>
+			<td>4</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>4.</td>
+			<td>MSRIT</td>
+			<td>Singing Competition</td>
+			<td>2</td>
+			<td>Third Prize</td>
+			</tr>
+			<tr>
+			<td>5.</td>
+			<td>MSRIT</td>
+			<td>Web Designing</td>
+			<td>4</td>
+			<td>First Prize</td>
+			</tr>
+			</table>
+			<p align="center"><strong>YEAR : 2007-08</strong></p>
+			<table class="table table-bordered">
+			<tr>
+			<td>Sl No</td>
+			<td>College Name</td>
+			<td>Event</td>
+			<td>Number of Students Participated</td>
+			<td>Recognition</td>
+			</tr>
+			<tr>
+			<td>1.</td>
+			<td>KSIT</td>
+			<td>Coding & Debugging</td>
+			<td>2</td>
+			<td>Second Prize</td>
+			</tr>
+			<tr>
+			<td>2.</td>
+			<td>KSIT</td>
+			<td>IT Quiz</td>
+			<td>2</td>
+			<td>Fourth Place</td>
+			</tr>
+			<tr>
+			<td>3.</td>
+			<td>AL AMEEN</td>
+			<td>IT Quiz</td>
+			<td>2</td>
+			<td>Second Prize</td>
+			</tr>
+			<tr>
+			<td>4.</td>
+			<td>CHRIST COLLEGE</td>
+			<td>Group Song</td>
+			<td>2</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>5.</td>
+			<td>CHRIST COLLEGE</td>
+			<td>Quizine (IT Quiz)</td>
+			<td>2</td>
+			<td>Third Prize</td>
+			</tr>
+			</table>
 			<div class="clear"></div>
 		
 		</div>
