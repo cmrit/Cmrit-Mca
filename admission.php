@@ -31,7 +31,7 @@
 				<div class="span9 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li><a href="index.php">Home</a></li>
-							<li id="about"><a href="#" class="account">about us</a>
+							<li id="about" class="active"><a href="#" class="account">about us</a>
 								<div class="submenu">
 								<ul class="root">
 									<li ><a href="about.php">Vision</a></li>
@@ -39,12 +39,12 @@
 									<li ><a href="about.php">About Department</a></li>
 									<li ><a href="about.php">Our Staffs</a></li>
 									<li ><a href="course.php">Course Details</a></li>
-								<li ><a href="admission.php">Admission</a></li>
+								<li><a href="admission.php">Admission</a></li>
 								</ul>
 								</div>
 							</li>
 							<li><a href="placement.php">Placement</a></li>
-							<li id="beyond" class="active"><a href="#" class="account">Beyond Syllabus</a>
+							<li id="beyond"><a href="#" class="account">Beyond Syllabus</a>
 								<div class="submenu">
 								<ul class="root">
 									<li ><a href="lifeskill.php">Life Skills</a></li>
@@ -80,23 +80,15 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 <div class="span4 pull-right">
 			<h2>&nbsp;</h2>
 			<hr />
-							<img src="images/lifeskill.jpg" class="thumbnail"/>
+							<img src="images/technical.jpg" class="thumbnail"/>
 		</div>
-			<h2>Life Skills</h2>
+			<h2>Admission</h2>
 			<hr />
 <p>
-A student’s life is not just studies. There are many more dimensions they must explore in order to foster a secure foothold in this competitive corporate world. 
-</p>
-<p>
-They do not even realize how the time to pass out from College and join the professional stream comes so soon, where they often feel they could have used their time more productively.
-</p>
-<p>
-The inclusion of Life Skills Training in the regular curriculum is an attempt by the Department to provide the students with additional modules on Communication Enhancement, Etiquette, Body Language, Business Awareness and Aptitude, that would enable the overall development of the students by the time they are eligible to appear in the placement interviews.
-</p>
-<p>
-It is thus a means to make our students more employable from the outset itself, grooming the fresh graduates into industry-ready post graduate candidates.
-
-			</p>
+				The selection is based on the CET ( Karnataka Management Aptitude Test) for filling up the seats of Government quota in the institute. </p>
+<p>For the Management quota, the selection is based on the score obtained by the student in any of the tests like PGCET and the aggregate percentage marks obtained in the qualifying degree examination. </p>
+<p>The minimum prescribed eligibility criteria by VTU and STATE GOVT OF KARNATAKA will be strictly adhered to.</p>
+			
 			
 			<div class="clear"></div>
 		

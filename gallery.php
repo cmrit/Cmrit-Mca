@@ -41,7 +41,7 @@
 									<li ><a href="about.php">About Department</a></li>
 									<li ><a href="about.php">Our Staffs</a></li>
 									<li ><a href="course.php">Course Details</a></li>
-								<li ><a href="about.php">Admission</a></li>
+								<li ><a href="admission.php">Admission</a></li>
 								</ul>
 								</div>
 							</li>

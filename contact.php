@@ -36,7 +36,7 @@
 									<li ><a href="about.php">About Department</a></li>
 									<li ><a href="about.php">Our Staffs</a></li>
 									<li ><a href="course.php">Course Details</a></li>
-								<li ><a href="about.php">Admission</a></li>
+								<li ><a href="admission.php">Admission</a></li>
 								</ul>
 								</div>
 							</li>
@@ -74,9 +74,14 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 
 <div class="content">
 <div class="span10">
-	<div class="span3 pull-right">
+<hr />
+<div class="span4">	
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/maps?hl=en&amp;ie=UTF8&amp;q=cmrit&amp;fb=1&amp;gl=in&amp;hq=cmrit&amp;hnear=0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0,Bangalore,+Karnataka&amp;cid=0,0,8689206662462636658&amp;ll=12.966619,77.711763&amp;spn=0.006295,0.006295&amp;t=m&amp;output=embed"></iframe>
+		</div>
+	<div class="span3">
 			<h2>Address</h2>
 			<hr />
+			
 				<strong>CMR Institute of Technology</strong>
 <p>132 AECS Layout,<br />
 IT Park Road<br />
@@ -85,47 +90,8 @@ Telephone : 28524477, 28524466<br />
 Telefax : 28524477<br />
 E-Mail : <a href="mailto:info@cmredu.com">info@cmredu.com</a></p>
 		</div>
-				<div class="span4 pull-right">
-			<h3>&nbsp;</h3>
+				
 			
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/maps?hl=en&amp;ie=UTF8&amp;q=cmrit&amp;fb=1&amp;gl=in&amp;hq=cmrit&amp;hnear=0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0,Bangalore,+Karnataka&amp;cid=0,0,8689206662462636658&amp;ll=12.966619,77.711763&amp;spn=0.006295,0.006295&amp;t=m&amp;output=embed"></iframe>
-</small>
-		</div>
-			<h2>Contact</h2>
-			<hr />
-					  <form action="" method="POST" id="contact_form">
-						<div id="js-messages"></div>
-            <div class="control-group">
-                          
-                <input type="text" class="input-large" id="inputFullname" placeholder="Name :">
-             
-            </div>
-
-            <div class="control-group">
-                         
-                <input type="text" class="input-large" id="inputEmail" placeholder="Email :">
-              
-            </div>
-
-            <div class="control-group">
-                           
-                <input type="text" class="input-large" id="inputSubject" placeholder="Phone :">
-              
-            </div>
-
-            <div class="control-group">
-                           
-                <textarea rows="6" class="input-large" placeholder="Message :" id="inputMessage"></textarea>
-              
-            </div>
-
-            <div class="control-group">
-    			
-     				 <input type="submit" class="btn" value="Send Message">
-    			       
-        		<br class="clear">                
-        	</div>
-            </form>
 		</div>
 </div>
 
