@@ -14,6 +14,8 @@
     <script src="js/tms-0.4.1.js"></script>
     <script src="js/jcarousellite.js" type="text/javascript"></script>
 	<script src="js/slider-dropdown.js"></script>
+	<script src="js/jquery.lightbox-0.5.pack.js"></script>
+	<script src="js/bootstrap.js"></script>
 
 	<link href='http://fonts.googleapis.com/css?family=Voltaire' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
@@ -44,7 +46,7 @@
 								</div>
 							</li>
 							<li><a href="">Placement</a></li>
-							<li id="beyond" class="active"><a href="#" class="account">Beyond Syllabus</a>
+							<li id="beyond"><a href="#" class="account">Beyond Syllabus</a>
 								<div class="submenu">
 								<ul class="root">
 									<li ><a href="lifeskill.php">Life Skills</a></li>
@@ -59,7 +61,7 @@
 								</div>
 								</li>
 							<li><a href="research.php">Research Initiatives</a></li>
-							<li><a href="achievements.php">Achievements</a></li>
+							<li class="active"><a href="achievements.php">Achievements</a></li>
 							<li><a href="contact.php">Contacts</a></li>
 						</ul>    								
 				</div>
@@ -77,31 +79,30 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 
 <div class="content">
 <div class="span10">
-<div class="span4 pull-right">
-			<h2>&nbsp;</h2>
+			<h2>Achievements</h2>
 			<hr />
-							<img src="images/newsletter.jpg" class="thumbnail"/>
-		</div>
-			<h2>News Letter</h2>
-			<hr />
-<p>
-College life is not just academics. The key to success is determination and inspiration. We strongly believe “a sound goal with high motivation will lead to success”.
-</p>
-<p>
-<strong><i>“Seasonal Delights”</i>- A platform to turn our Visions to Action</strong>
-</p>
-<p>
-The publication of the newsletter by the Department would highlight its various activities and achievements along with individual talent performed outside the workspace. Be it Technical, Community service, Dramatics, Public Speaking, Photography, Artistic or Literary events, the platform Cheer Leads.
-</p>
-<p>
-Each edition reflects the thoughts and creativity of our students on various aspects. The e-Newsletter has four editions namely Rain Ripples, Spring Splash, Winter Wizard and Summer Spark named in symphony with the month of their release, respectively being the end of September, November, March and May.
-</p>
-<p>
-As every season has its own charm, each of our editions has its own significance. We wish to shower our love towards Mother Nature and our feelings of patriotism would pour out with the Rain Ripple. The traditions of our varied culture will bloom through the Spring Splash. Sports enthusiasts would be frozen with the moments captured by our Winter Wizard and our bright graduates would shine brilliantly with the Summer Spark.
+<ul id="tabs" class="nav nav-tabs" data-tabs="tabs">
+        <li class="active"><a href="#academic" data-toggle="tab">Academic Achievements</a></li>
+        <li><a href="#extra_c" data-toggle="tab">Extra Curricular details</a></li>
+    </ul>
+    <div id="tab-content" class="tab-content">
 
-
-			</p>
-			
+        <div class="tab-pane active" id="academic">
+		<ul>
+            <li>University 2nd Rank Obtained by Md. Dizaur Rohman (86.74%) in 2009</li>
+<li>More than 200 students and 7 faculties have done DB2 730 certification.</li>
+<li>More than 300 students and 5 faculties certified in RAD.</li>
+<li>51 students and 4 faculty certified in Lotus Domino.</li>
+<li>52 students and 3 faculties certified in Tivoli.</li>
+<li>50 students and 3 faculties certified in RFT.</li>
+<li>42 Students and 4 faculties have done WID certification.</li>
+</ul>
+        </div>
+        <div class="tab-pane" id="extra_c">
+            <h1>Yellow</h1>
+            <p>yellow yellow yellow yellow yellow</p>
+        </div>
+    </div>
 			<div class="clear"></div>
 		
 		</div>
@@ -117,7 +118,6 @@ As every season has its own charm, each of our editions has its own significance
 	</div>
 </footer>
 
-	
     </div> <!-- /container -->
   </body>
 </html>
