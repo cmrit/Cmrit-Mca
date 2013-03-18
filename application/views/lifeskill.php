@@ -39,10 +39,11 @@
 									<li ><a href="<?php echo base_url().'about'; ?>">About Department</a></li>
 									<li ><a href="<?php echo base_url().'about'; ?>">Our Staffs</a></li>
 									<li ><a href="<?php echo base_url().'course'; ?>">Course Details</a></li>
+								<li ><a href="<?php echo base_url().'about'; ?>">Admission</a></li>
 								</ul>
 								</div>
 							</li>
-							<li><a href="<?php echo base_url(); ?>">admission</a></li>
+							<li><a href="<?php echo base_url(); ?>">Placement</a></li>
 							<li id="beyond" class="active"><a href="#" class="account">Beyond Syllabus</a>
 								<div class="submenu">
 								<ul class="root">
