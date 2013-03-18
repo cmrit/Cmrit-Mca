@@ -31,7 +31,7 @@
 			
 <div class="span9 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
-							<li><a href="">Home</a></li>
+							<li><a href="index.php">Home</a></li>
 							<li id="about" class="active"><a href="#" class="account">about us</a>
 								<div class="submenu">
 								<ul class="root">
@@ -81,11 +81,21 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 <div class="span6 pull-right">
 			<h2>About Department</h2>
 			<hr />
+			<!--
 			<p>
 				The selection is based on the CET ( Karnataka Management Aptitude Test) for filling up the seats of Government quota in the institute. </p>
 <p>For the Management quota, the selection is based on the score obtained by the student in any of the tests like PGCET and the aggregate percentage marks obtained in the qualifying degree examination. </p>
 <p>The minimum prescribed eligibility criteria by VTU and STATE GOVT OF KARNATAKA will be strictly adhered to.</p>
+			-->
 			
+Established	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;2001-02<br />
+Students Strength&nbsp;&nbsp;&nbsp;&nbsp;: 240<br />
+Faculty Strength&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 13<br />
+Technical staff&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 02<br />
+Office staff	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 03<br />
+Current Intake&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 120<br />
+Alumni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 520<br />
+
 			
 			<div class="span6" id="staff-box">
 					          <div class="carousel-box">
@@ -96,68 +106,68 @@ Department Of <span style="color:#a6b032;"> MCA</span>
             <div class="carousel">
                 <ul>
                     <li>
-					<a href="#myModal" data-toggle="modal" class="staff-img" data-name="Prof Rachna Sharma">
+					<a data-toggle="modal" href="#myModal">
                         <img src="images/p2-page-img.jpg" alt="">
                         Prof Rachna Sharma
 						</a>
                     </li>
                     <li>
-					<a href="#myModal" data-toggle="modal" class="staff-img">
+					<a href="#myModal" data-toggle="modal">
                         <img src="images/p2-page-img.jpg" alt="">
                         Dr. K. Prasada Rao</a>
                     </li>
                     <li>
-					<a href="#myModal" data-toggle="modal" class="staff-img">
+					<a href="#myModal" data-toggle="modal">
                         <img src="images/p2-page-img.jpg" alt="">
                         Mr. Nagendra N</a>
                     </li>
                     <li>
-					<a href="#myModal" data-toggle="modal" class="staff-img">
+					<a href="#myModal" data-toggle="modal">
                         <img src="images/p2-page-img.jpg" alt="">
                         Mr. Sudipto Das</a>
                     </li>
                     <li>
-					<a href="#myModal" data-toggle="modal" class="staff-img">
+					<a href="#myModal" data-toggle="modal">
                         <img src="images/p2-page-img.jpg" alt="">
                         Ms. B Nithya Ramesh</a>
                     </li>
                     <li>
-					<a href="#myModal" data-toggle="modal" class="staff-img">
+					<a href="#myModal" data-toggle="modal">
                         <img src="images/p2-page-img.jpg" alt="">
                         Ms. Usha Patnaik Das</a>
                     </li>
                     <li>
-					<a href="#myModal" data-toggle="modal" class="staff-img">
+					<a href="#myModal" data-toggle="modal">
                         <img src="images/p2-page-img.jpg" alt="">
                         Ms. Sathya</a>
                     </li>
                     <li>
-					<a href="#myModal" data-toggle="modal" class="staff-img">
+					<a href="#myModal" data-toggle="modal">
                         <img src="images/p2-page-img.jpg" alt="">
                         Mr. Basawraj</a>
                     </li>
 					<li>
-					<a href="#myModal" data-toggle="modal" class="staff-img">
+					<a href="#myModal" data-toggle="modal">
                         <img src="images/p2-page-img.jpg" alt="">
                         Ms. T Gomathi</a>
                     </li>
 					<li>
-					<a href="#myModal" data-toggle="modal" class="staff-img">
+					<a href="#myModal" data-toggle="modal">
                         <img src="images/p2-page-img.jpg" alt="">
                         Ms. Neha Agrawal</a>
                     </li>
 					<li>
-					<a href="#myModal" data-toggle="modal" class="staff-img">
+					<a href="#myModal" data-toggle="modal">
                         <img src="images/p2-page-img.jpg" alt="">
                         Ms. Arshdeep Kaur</a>
                     </li>
 					<li>
-					<a href="#myModal" data-toggle="modal" class="staff-img">
+					<a href="#myModal" data-toggle="modal">
                         <img src="images/p2-page-img.jpg" alt="">
                         Ms.Pratima V.Patil</a>
                     </li>
 					<li>
-					<a href="#myModal" data-toggle="modal" class="staff-img">
+					<a href="#myModal" data-toggle="modal">
                         <img src="images/p2-page-img.jpg" alt="">
                         Ms. Bharti Chaubey</a>
                     </li>
@@ -173,9 +183,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 			<h2>Vision</h2>
 			<hr />
 			<p>
-			To create, build and provide value added educational services through teaching, training, 
-			research, consultancy and entrepreneurship within and beyond the curriculum, by means of quality 
-			infrastructure, material and human resources to attain intellectual heights.
+			To evolve as a center of excellence with integrated and synergized technological application program that will empower young minds to take global challenges.
 			</p>
 			
 			<div class="clear"></div>
@@ -184,31 +192,30 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 			<hr />
 			<p>
 				<ul>
-				<li>Give the community genuine, talented, upto date, motivated and trained professionals.</li>
-<li>Develop all institutions as model institutions which will enable the students or the parents to realise their ambition / dream in a more structured and positive manner.</li>
-<li>Inculcate the right values, scientific temperament and social commitment amongst the students and ensure they become right partners of progress.</li>
+				<li>To strive to create excellence in its offerings.</li>
+<li>To provide excellent ambience that is conducive to learning</li>
+<li>To partner with industry in carrying out application part of knowledge and information</li>
+<li>To create technocrats with strong ethical principles and professionals.</li>
+<li>To effectively contribute to research through tie-ups and MOU's with intustry & other organizations.</li>
 				</ul>
 			</p>
 		</div>
  
 <!-- Modal -->
-<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-header">
-    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-    <h3 id="myModalLabel">
-	<script>
-	
-	</script>
-	</h3>
-  </div>
-  <div class="modal-body">
-    <p>One fine body…</p>
-  </div>
-  <div class="modal-footer">
-    <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
-    <button class="btn btn-primary">Save changes</button>
-  </div>
-</div>
+<div id="myModal" class="modal hide fade in" style="display: none; ">  
+<div class="modal-header">  
+<a class="close" data-dismiss="modal">×</a>  
+<h3>This is a Modal Heading</h3>  
+</div>  
+<div class="modal-body">  
+<h4>Text in a modal</h4>  
+<p>You can add some text here.</p>                
+</div>  
+<div class="modal-footer">  
+<a href="#" class="btn btn-success">Call to action</a>  
+<a href="#" class="btn" data-dismiss="modal">Close</a>  
+</div>  
+</div> 
 </div>
 
 
@@ -297,12 +304,7 @@ $('.gallery-pic a').lightBox({
 
 	});
 
-			$('.staff-img').click(function() {
-    $('#myModal').modal('show');
-    $('#myModal').on('shown', function() {
-        $("#myModal").focus();
-    });
-	});
+
 	
 });
 	

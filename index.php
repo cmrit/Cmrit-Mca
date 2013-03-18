@@ -32,7 +32,7 @@
 			
 				<div class="span9 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
-							<li class="active"><a href="">Home</a></li>
+							<li class="active"><a href="index.php">Home</a></li>
 							<li id="about"><a href="#" class="account">about us</a>
 								<div class="submenu">
 								<ul class="root">
