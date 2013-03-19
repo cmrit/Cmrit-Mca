@@ -137,9 +137,10 @@ Alumni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
                         Ms. B Nithya Ramesh</a>
                     </li>
                     <li>
-					<a href="#myModal" data-toggle="modal" class="staff-img" data-event="usha">
+					<!-- <a href="#myModal" data-toggle="modal" class="staff-img" data-event="usha"> -->
                         <img src="images/p2-page-img.jpg" alt="">
-                        Ms. Usha Patnaik Das</a>
+                        Ms. Usha Patnaik Das
+						<!-- </a> -->
                     </li>
                     <li>
 					<a href="#myModal" data-toggle="modal" class="staff-img" data-event="sathya">
