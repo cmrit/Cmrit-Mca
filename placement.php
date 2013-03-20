@@ -357,7 +357,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
       <h4 class="media-heading">Riya Saha</h4>
 	  <h5>Batch : 2012</h4>
 	  <p>
-	  Software Engineer at mandamus Info Knowledge Consultants Pvt. Ltd.
+	  Software Engineer at Mandamus Info Knowledge Consultants Pvt. Ltd.
 	  </p>
     </div>
   </li>
