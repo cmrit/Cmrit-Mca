@@ -123,6 +123,14 @@
 	
 	<div class="mca">
 Department Of <span style="color:#a6b032;"> MCA</span>
+<br />
+<span style="font-size:12px;font-family:verdana;letter-spacing:0px;">
+<a href="http://it.cmr.ac.in/ibmnew/" target="_blank">
+IBM Centre Of Excellence
+</a>
+</span>
+
+
 </div>
 
 <div class="blocks">

@@ -233,13 +233,13 @@ body {
 }
 
 a {
-  color: #0088cc;
+  color: #274866;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #005580;
+  color: #274866;
   text-decoration: underline;
 }
 
@@ -6272,7 +6272,7 @@ font-size:48px;
 color:#274866; 
 text-decoration:none;
 font-weight:400; 
-margin:45px 0 7px; 
+margin:45px 0 -30px; 
 text-transform:uppercase; 
 letter-spacing:-2px;
 text-align:center;
