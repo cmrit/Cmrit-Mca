@@ -7,11 +7,8 @@
               preset:'fade', 
               pagination:true,//'.pagination',true,'<ul></ul>'
               pagNums:false,
-              slideshow:6000,
-              numStatus:false,
-              banners:'fromRight',
-		      waitBannerAnimation:false,
-			  progressBar:false
+              slideshow:6000
+
           })
 		  $(function() {
              $(".carousel").jCarouselLite({	
