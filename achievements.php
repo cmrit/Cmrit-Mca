@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>CMR MCA</title>
+    <title>Achievements</title>
 
 
     <!-- Le styles -->
