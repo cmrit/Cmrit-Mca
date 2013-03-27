@@ -100,12 +100,37 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 </ul>
         </div>
         <div class="tab-pane" id="extra_c">
+		<div class="span4 well bold">
+		<img src="images/RV-2013.jpg" />
+		<center>
+		<strong>
+		Won Overall Championship at RV College Of Engineering (2013)
+		</strong>
+		</center>
+		</div>
+		<div class="span4 well">
+		<img src="images/christ-2012.jpg" />
+		<center>
+		<strong>
+		Won Overall Championship at Chirst University (2012)
+		</strong>
+		</center>
+		</div>
+		<div class="span4 well">
+		<img src="images/RV-2012.jpg" />
+		<center>
+		<strong>
+		Won Overall Championship at RV College Of Engineering (2012)
+		</strong>
+		</center>
+		</div>
+		<div class="span4 well">
 		<ul>
-<li>Won overall championship at RV College (2012)</li>
-<li>Won Overall Championship at Chirst College(2013)</li>
+
 <li>Students participated in National Level Hockey Events.</li>
 <li>Students participated in various inter college events and won prizes.</li>
 </ul>
+</div>
         </div>
     </div>
 			<div class="clear"></div>
