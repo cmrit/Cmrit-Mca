@@ -8,12 +8,15 @@
     <!-- Le styles -->
     <link href="css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/jquery.lightbox-0.5.css" />
 	
 	<script src="js/jquery-1.7.1.min.js"></script>
     <script src="js/jquery.easing.1.3.js"></script>
     <script src="js/tms-0.4.1.js"></script>
     <script src="js/jcarousellite.js" type="text/javascript"></script>
 	<script src="js/slider-dropdown.js"></script>
+	<script src="js/jquery.lightbox-0.5.pack.js"></script>
+	<script src="js/bootstrap.js"></script>
 
 	<link href='http://fonts.googleapis.com/css?family=Voltaire' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
@@ -21,7 +24,7 @@
 
   </head>
 
-  <body id="p2">
+  <body id="p4">
 
     <div class="container">
 	<header>
@@ -95,6 +98,39 @@ The speakers are usually those with a proven expertise in the Industry, who can 
 Their insights are truly valuable to the students who get immense ideas about what to expect from the Industry and as to how to make themselves more employable. Also, they get a clear idea about how to chart their careers so as to balance their work and personal issues, helping them lead a satisfying life. 
 
 			</p>
+			<div class="blocks">
+	<div class="span10">
+		          <div class="carousel-box">
+            <span>Gallery</span>
+            <a id="prev"></a>
+	  	    <a id="next"></a>
+            <div class="carousel img-gallery">
+                <ul>
+				<?php
+
+$files = glob("images/guest/*.*");
+$thumb = glob("images/guest-thumb/*.*");
+
+$title='';
+for ($i=0; $i<count($files); $i++)
+{
+$t = $thumb[$i];
+$num = $files[$i];
+
+echo '
+					<li>		
+						<a href="'.$num.'" rel="lightbox">
+                        <img src="'.$t.'" alt="" class="thumbnail">
+                        </a>
+                    </li>
+';
+}
+?>
+                </ul>
+            </div>
+</div>
+</div>
+</div>
 			<div class="clear"></div>
 			<div class="span4 well" style="text-align:center;">
 			<p><strong>Guest Lectures - 2006</strong></p>
