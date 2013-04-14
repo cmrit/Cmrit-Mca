@@ -3966,7 +3966,7 @@ input[type="submit"].btn.btn-mini {
 .nav > li > a:hover,
 .nav > li > a:focus {
   text-decoration: none;
-  background-color: #eeeeee;
+
 }
 
 .nav > li > a > img {
@@ -6490,4 +6490,8 @@ div.nomargin{
 	height:250px;
 	text-indent:-99999px;
 	display:block;
+}
+
+.account a {
+	background-color: #274866;
 }
