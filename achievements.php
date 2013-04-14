@@ -113,7 +113,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 		<img src="images/christ-2012.jpg" />
 		<center>
 		<strong>
-		Won Overall Championship at Chirst University (2012)
+		Won Overall Championship at Christ University (2012)
 		</strong>
 		</center>
 		</div>
