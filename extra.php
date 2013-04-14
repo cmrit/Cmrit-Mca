@@ -14,9 +14,10 @@
     <script src="js/jquery.easing.1.3.js"></script>
     <script src="js/tms-0.4.1.js"></script>
     <script src="js/jcarousellite.js" type="text/javascript"></script>
-	<script src="js/bootstrap.js"></script>
+	
 	<script src="js/slider-dropdown.js"></script>
 	<script src="js/jquery.lightbox-0.5.pack.js"></script>
+	<script src="js/bootstrap.js"></script>
 	
 
 	<link href='http://fonts.googleapis.com/css?family=Voltaire' rel='stylesheet' type='text/css'>
@@ -111,32 +112,26 @@ Our students have always set high standards by winning several individual events
 	  	    <a id="next"></a>
             <div class="carousel img-gallery">
                 <ul>
-                    <li>
-					<!--
-					<div class="gallery-pic" style="background:url(images/event-sahyog-12.jpg) no-repeat 50% 50%;">
-		<a href="'.$num.'" title="title" target="_blank">title</a>
-		</div>
-		-->
-				
-						<a href="images/event-sahyog-12.jpg" rel="lightbox">
-                        <img src="images/event-sahyog-12.jpg" alt="" class="thumbnail">
+				<?php
+
+$files = glob("images/extra/*.*");
+$thumb = glob("images/extra-thumb/*.*");
+
+$title='';
+for ($i=0; $i<count($files); $i++)
+{
+$t = $thumb[$i];
+$num = $files[$i];
+
+echo '
+					<li>		
+						<a href="'.$num.'" rel="lightbox">
+                        <img src="'.$t.'" alt="" class="thumbnail">
                         </a>
                     </li>
-                    <li>
-						
-                        <img src="images/resolution-12.jpg" alt="" class="thumbnail">
-                        
-                    </li>
-                    <li>
-						
-                        <img src="images/event-sahyog-11.jpg" alt="" class="thumbnail">
-                        
-                    </li>
-                    <li>
-						
-                        <img src="images/event-sahyog-10.jpg" alt="" class="thumbnail">
-                        
-                    </li>
+';
+}
+?>
                 </ul>
             </div>
 </div>
