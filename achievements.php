@@ -89,8 +89,9 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     <div id="tab-content" class="tab-content">
 
         <div class="tab-pane active" id="academic">
-		
+		<strong>
 		<ul>
+		<li>University 4th Rank Obtained by Ms. Namarata Ahuja( 87.13%) in 2012.</li>
             <li>University 2nd Rank Obtained by Md. Dizaur Rohman (86.74%) in 2009</li>
 <li>More than 200 students and 7 faculties have done DB2 730 certification.</li>
 <li>More than 300 students and 5 faculties certified in RAD.</li>
@@ -98,9 +99,17 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 <li>52 students and 3 faculties certified in Tivoli.</li>
 <li>50 students and 3 faculties certified in RFT.</li>
 <li>42 Students and 4 faculties have done WID certification.</li>
-</ul>
+</ul></strong>
         </div>
         <div class="tab-pane" id="extra_c">
+		<div class="span4 well bold">
+		<img src="images/nitte-2013.jpg" />
+		<center>
+		<strong>
+		Won Overall Championship at NITTE Meenakshi Institute Of Technology (2013)
+		</strong>
+		</center>
+		</div>
 		<div class="span4 well bold">
 		<img src="images/RV-2013.jpg" />
 		<center>
