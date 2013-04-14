@@ -142,6 +142,11 @@ IBM Centre Of Excellence
 	  	    <a id="next"></a>
             <div class="carousel">
                 <ul>
+					<li>
+						<a href="gallery.php?album=sahyog11">
+                        <img src="images/resolution-12.jpg" alt="" class="thumbnail">
+                        Protocol '13</a>
+                    </li>
                     <li>
 						<a href="gallery.php?album=sahyog12">
                         <img src="images/event-sahyog-12.jpg" alt="" class="thumbnail">
@@ -151,6 +156,16 @@ IBM Centre Of Excellence
 						<a href="gallery.php?album=sahyog11">
                         <img src="images/resolution-12.jpg" alt="" class="thumbnail">
                         Resolution '12</a>
+                    </li>
+					<li>
+						<a href="gallery.php?album=sahyog11">
+                        <img src="images/resolution-12.jpg" alt="" class="thumbnail">
+                        Protocol '11</a>
+                    </li>
+					<li>
+						<a href="gallery.php?album=sahyog11">
+                        <img src="images/resolution-12.jpg" alt="" class="thumbnail">
+                        Resolution '11</a>
                     </li>
                     <li>
 						<a href="gallery.php?album=sahyog11">
