@@ -113,56 +113,68 @@ As every season has its own charm, each of our editions has its own significance
 
         <div class="tab-pane active" id="v1">
 		<div class="span2">
+		<a href="publications/i1v1.pdf" target="_blank">
 			<img src="images/i1v1.jpg" class="thumbnail" />
 			<center>
 		<strong>
 		Issue 1<br />Rain Ripples
 		</strong>
 		</center>
+		</a>
 			</div>
 			<div class="span2">
+			<a href="publications/i1v2.pdf" target="_blank">
 			<img src="images/i1v2.jpg" class="thumbnail"/>
 			<center>
 		<strong>
 		Issue 2<br />Spring Splash
 		</strong>
 		</center>
+		</a>
 			</div>
 			<div class="span2">
+			<a href="publications/i1v3.pdf" target="_blank">
 			<img src="images/i1v3.jpg" class="thumbnail"/>
 			<center>
 		<strong>
 		Issue 3<br />Winter Wizards
 		</strong>
 		</center>
+		</a>
 			</div>
 			<div class="span2">
+			<a href="publications/i1v4.pdf" target="_blank">
 			<img src="images/i1v4.jpg" class="thumbnail"/>
 			<center>
 		<strong>
 		Issue 4<br />Summer Spark
 		</strong>
 		</center>
+		</a>
 			</div>
 			</div>
 
 
         <div class="tab-pane" id="v2">
 		<div class="span2">
+		<a href="publications/i2v1.pdf" target="_blank">
 			<img src="images/i2v1.jpg" class="thumbnail"/>
 			<center>
 		<strong>
 		Issue 1<br />Rain Ripples
 		</strong>
 		</center>
+		</a>
 			</div>
 			<div class="span2">
+			<a href="publications/i2v2.pdf" target="_blank">
 			<img src="images/i2v2.jpg" class="thumbnail"/>
 			<center>
 		<strong>
 		Issue 2<br />Spring Splash
 		</strong>
 		</center>
+		</a>
 			</div>
 			</div>
 			</div>
