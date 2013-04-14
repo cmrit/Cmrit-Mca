@@ -67,6 +67,15 @@ $('.gallery-pic a').lightBox({
 		imageBtnNext: 'images/next.gif'
 
 	});
+	
+$('.img-gallery a').lightBox({
+		
+		imageLoading: 'images/loading.gif',
+		imageBtnClose: 'images/close.gif',
+		imageBtnPrev: 'images/prev.gif',
+		imageBtnNext: 'images/next.gif'
+
+	});
 
 	
 });

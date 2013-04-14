@@ -8,14 +8,16 @@
     <!-- Le styles -->
     <link href="css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/jquery.lightbox-0.5.css" />
 	
 	<script src="js/jquery-1.7.1.min.js"></script>
     <script src="js/jquery.easing.1.3.js"></script>
     <script src="js/tms-0.4.1.js"></script>
     <script src="js/jcarousellite.js" type="text/javascript"></script>
+	<script src="js/bootstrap.js"></script>
 	<script src="js/slider-dropdown.js"></script>
 	<script src="js/jquery.lightbox-0.5.pack.js"></script>
-	<script src="js/bootstrap.js"></script>
+	
 
 	<link href='http://fonts.googleapis.com/css?family=Voltaire' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
@@ -23,7 +25,7 @@
 
   </head>
 
-  <body id="p2">
+  <body id="p3">
 
     <div class="container">
 	<header>
@@ -100,7 +102,47 @@ The students actively participate in sports events and cultural fests in other c
 Our students have always set high standards by winning several individual events as well as also the all-over championships in many colleges over the past few years.
 
 			</p>
-			
+
+			<div class="blocks">
+	<div class="span10">
+		          <div class="carousel-box">
+            <span>Gallery</span>
+            <a id="prev"></a>
+	  	    <a id="next"></a>
+            <div class="carousel img-gallery">
+                <ul>
+                    <li>
+					<!--
+					<div class="gallery-pic" style="background:url(images/event-sahyog-12.jpg) no-repeat 50% 50%;">
+		<a href="'.$num.'" title="title" target="_blank">title</a>
+		</div>
+		-->
+				
+						<a href="images/event-sahyog-12.jpg" rel="lightbox">
+                        <img src="images/event-sahyog-12.jpg" alt="" class="thumbnail">
+                        </a>
+                    </li>
+                    <li>
+						
+                        <img src="images/resolution-12.jpg" alt="" class="thumbnail">
+                        
+                    </li>
+                    <li>
+						
+                        <img src="images/event-sahyog-11.jpg" alt="" class="thumbnail">
+                        
+                    </li>
+                    <li>
+						
+                        <img src="images/event-sahyog-10.jpg" alt="" class="thumbnail">
+                        
+                    </li>
+                </ul>
+            </div>
+</div>
+</div>
+</div>
+			<div class="tabbable tabs-left">
 			<ul id="tabs" class="nav nav-tabs" data-tabs="tabs">
         <li class="active"><a href="#2012-13" data-toggle="tab">YEAR : 2012-13</a></li>
         <li><a href="#2011-12" data-toggle="tab">YEAR : 2011-12</a></li>
@@ -169,6 +211,98 @@ Our students have always set high standards by winning several individual events
 			<td>Encryption/Decryption</td>
 			<td>2</td>
 			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>10.</td>
+			<td>RV College</td>
+			<td>Web Designing</td>
+			<td>2</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>11.</td>
+			<td>RV College</td>
+			<td>Product Launch</td>
+			<td>4</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>12.</td>
+			<td>RV College</td>
+			<td>Toggle</td>
+			<td>1</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>13.</td>
+			<td>RV College</td>
+			<td>Treasure Hunt</td>
+			<td>2</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>14.</td>
+			<td>Oxford College</td>
+			<td>Web Designing</td>
+			<td>2</td>
+			<td>Second Prize</td>
+			</tr>
+			<tr>
+			<td>15.</td>
+			<td>Oxford College</td>
+			<td>Mad Ads</td>
+			<td>5</td>
+			<td>Third Prize</td>
+			</tr>
+			<tr>
+			<td>16.</td>
+			<td>Oxford College</td>
+			<td>Khoj</td>
+			<td>2</td>
+			<td>Third Prize</td>
+			</tr>
+			<tr>
+			<td>17.</td>
+			<td>Oxford College</td>
+			<td>Tech- Talk</td>
+			<td>1</td>
+			<td>Third Prize</td>
+			</tr>
+			<tr>
+			<td>18.</td>
+			<td>Reva College</td>
+			<td>Web Designing</td>
+			<td>2</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>19.</td>
+			<td>RNSIT College</td>
+			<td>Web Designing</td>
+			<td>1</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>20.</td>
+			<td>NITTE MEENAKSHI College</td>
+			<td>Web Designing</td>
+			<td>2</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>21.</td>
+			<td>NITTE MEENAKSHI College</td>
+			<td>Gaming</td>
+			<td>1</td>
+			<td>First Prize</td>
+			</tr>
+			<tr>
+			<td>21.</td>
+			<td>NITTE MEENAKSHI College</td>
+			<td>Paper Presentation</td>
+			<td>2</td>
+			<td>First Prize</td>
+			</tr>
 			</table>
         </div>
         <div class="tab-pane" id="2011-12">
@@ -376,6 +510,7 @@ Our students have always set high standards by winning several individual events
 			</table>
 		</div>
     </div>
+	</div>
 			<div class="clear"></div>
 		
 		</div>

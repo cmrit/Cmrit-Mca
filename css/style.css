@@ -842,6 +842,11 @@ li {
   margin-bottom: 20px;
 }
 
+#p3 .content li {
+  line-height: 26px;
+  margin-bottom: 20px;
+}
+
 ul.unstyled,
 ol.unstyled {
   margin-left: 0;
@@ -6354,6 +6359,14 @@ margin:45px 0 -30px;
 	text-align: center;
     }
 	
+#p3 .carousel ul li {
+	width:236px;
+	text-align:left;
+	padding-left:4px;
+	position:relative;
+	padding-top:3px;
+	text-align: center;
+    }
 #p2 .carousel ul li {
 	width:150px;
 	text-align:left;
@@ -6378,6 +6391,12 @@ margin:45px 0 -30px;
 
 #p1 .blocks {
 background:url(../images/blocks.png) repeat-x left top #f7f7f7; 
+padding:38px 0 35px; 
+font-size:14px;
+height:240px;
+}
+
+#p3 .blocks {
 padding:38px 0 35px; 
 font-size:14px;
 height:240px;
