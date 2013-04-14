@@ -14,6 +14,7 @@
     <script src="js/tms-0.4.1.js"></script>
     <script src="js/jcarousellite.js" type="text/javascript"></script>
 	<script src="js/slider-dropdown.js"></script>
+	<script src="js/bootstrap.js"></script>
 
 	<link href='http://fonts.googleapis.com/css?family=Voltaire' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
@@ -102,7 +103,70 @@ As every season has its own charm, each of our editions has its own significance
 
 
 			</p>
-			
+			<div class="clear"></div>
+			<div class="tabbable tabs-left">
+			<ul id="tabs" class="nav nav-tabs" data-tabs="tabs">
+        <li class="active"><a href="#v1" data-toggle="tab">Volume : 1</a></li>
+        <li><a href="#v2" data-toggle="tab">Volume : 2</a></li>
+    </ul>
+    <div id="tab-content" class="tab-content">
+
+        <div class="tab-pane active" id="v1">
+		<div class="span2">
+			<img src="images/i1v1.jpg" class="thumbnail" />
+			<center>
+		<strong>
+		Issue 1<br />Rain Ripples
+		</strong>
+		</center>
+			</div>
+			<div class="span2">
+			<img src="images/i1v2.jpg" class="thumbnail"/>
+			<center>
+		<strong>
+		Issue 2<br />Spring Splash
+		</strong>
+		</center>
+			</div>
+			<div class="span2">
+			<img src="images/i1v3.jpg" class="thumbnail"/>
+			<center>
+		<strong>
+		Issue 3<br />Winter Wizards
+		</strong>
+		</center>
+			</div>
+			<div class="span2">
+			<img src="images/i1v4.jpg" class="thumbnail"/>
+			<center>
+		<strong>
+		Issue 4<br />Summer Spark
+		</strong>
+		</center>
+			</div>
+			</div>
+
+
+        <div class="tab-pane" id="v2">
+		<div class="span2">
+			<img src="images/i2v1.jpg" class="thumbnail"/>
+			<center>
+		<strong>
+		Issue 1<br />Rain Ripples
+		</strong>
+		</center>
+			</div>
+			<div class="span2">
+			<img src="images/i2v2.jpg" class="thumbnail"/>
+			<center>
+		<strong>
+		Issue 2<br />Spring Splash
+		</strong>
+		</center>
+			</div>
+			</div>
+			</div>
+			</div>
 			<div class="clear"></div>
 		
 		</div>
