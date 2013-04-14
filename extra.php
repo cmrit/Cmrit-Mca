@@ -14,7 +14,6 @@
     <script src="js/jquery.easing.1.3.js"></script>
     <script src="js/tms-0.4.1.js"></script>
     <script src="js/jcarousellite.js" type="text/javascript"></script>
-	
 	<script src="js/slider-dropdown.js"></script>
 	<script src="js/jquery.lightbox-0.5.pack.js"></script>
 	<script src="js/bootstrap.js"></script>
