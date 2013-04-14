@@ -14,6 +14,8 @@
     <script src="js/tms-0.4.1.js"></script>
     <script src="js/jcarousellite.js" type="text/javascript"></script>
 	<script src="js/slider-dropdown.js"></script>
+	<script src="js/jquery.lightbox-0.5.pack.js"></script>
+	<script src="js/bootstrap.js"></script>
 
 	<link href='http://fonts.googleapis.com/css?family=Voltaire' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic' rel='stylesheet' type='text/css'>
@@ -98,9 +100,20 @@ The students actively participate in sports events and cultural fests in other c
 Our students have always set high standards by winning several individual events as well as also the all-over championships in many colleges over the past few years.
 
 			</p>
-			<div class="clear"></div>
-			<p align="center"><strong>YEAR : 2012-13</strong></p>
-			<table class="table table-bordered">
+			
+			<ul id="tabs" class="nav nav-tabs" data-tabs="tabs">
+        <li class="active"><a href="#2012-13" data-toggle="tab">YEAR : 2012-13</a></li>
+        <li><a href="#2011-12" data-toggle="tab">YEAR : 2011-12</a></li>
+		<li><a href="#2010-11" data-toggle="tab">YEAR : 2010-11</a></li>
+		<li><a href="#2009-10" data-toggle="tab">YEAR : 2009-10</a></li>
+		<li><a href="#2008-09" data-toggle="tab">YEAR : 2008-09</a></li>
+		<li><a href="#2007-08" data-toggle="tab">YEAR : 2007-08</a></li>
+    </ul>
+    <div id="tab-content" class="tab-content">
+
+        <div class="tab-pane active" id="2012-13">
+		
+		<table class="table table-bordered">
 			<tr>
 			<td>Sl No</td>
 			<td>College Name</td>
@@ -157,7 +170,8 @@ Our students have always set high standards by winning several individual events
 			<td>2</td>
 			<td>First Prize</td>
 			</table>
-			<p align="center"><strong>YEAR : 2011-12</strong></p>
+        </div>
+        <div class="tab-pane" id="2011-12">
 			<table class="table table-bordered">
 			<tr>
 			<td>Sl No</td>
@@ -210,8 +224,10 @@ Our students have always set high standards by winning several individual events
 			<td>Second Prize</td>
 			</tr>
 			</table>
-			<p align="center"><strong>YEAR : 2010-11</strong></p>
-			<table class="table table-bordered">
+
+        </div>
+		<div class="tab-pane" id="2010-11">
+		<table class="table table-bordered">
 			<tr>
 			<td>Sl No</td>
 			<td>College Name</td>
@@ -241,8 +257,9 @@ Our students have always set high standards by winning several individual events
 			<td>Second Prize</td>
 			</tr>
 			</table>
-			<p align="center"><strong>YEAR : 2009-10</strong></p>
-			<table class="table table-bordered">
+		</div>
+		<div class="tab-pane" id="2009-10">
+		<table class="table table-bordered">
 			<tr>
 			<td>Sl No</td>
 			<td>College Name</td>
@@ -265,8 +282,9 @@ Our students have always set high standards by winning several individual events
 			<td>Second Prize</td>
 			</tr>
 			</table>
-			<p align="center"><strong>YEAR : 2008-09</strong></p>
-			<table class="table table-bordered">
+		</div>
+		<div class="tab-pane" id="2008-09">
+		<table class="table table-bordered">
 			<tr>
 			<td>Sl No</td>
 			<td>College Name</td>
@@ -310,8 +328,9 @@ Our students have always set high standards by winning several individual events
 			<td>First Prize</td>
 			</tr>
 			</table>
-			<p align="center"><strong>YEAR : 2007-08</strong></p>
-			<table class="table table-bordered">
+		</div>
+		<div class="tab-pane" id="2007-08">
+		<table class="table table-bordered">
 			<tr>
 			<td>Sl No</td>
 			<td>College Name</td>
@@ -355,6 +374,8 @@ Our students have always set high standards by winning several individual events
 			<td>Third Prize</td>
 			</tr>
 			</table>
+		</div>
+    </div>
 			<div class="clear"></div>
 		
 		</div>
