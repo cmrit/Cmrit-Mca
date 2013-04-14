@@ -110,6 +110,8 @@ Their insights are truly valuable to the students who get immense ideas about wh
 
 $files = glob("images/guest/*.*");
 $thumb = glob("images/guest-thumb/*.*");
+$files  = array_reverse($files);
+$thumb  = array_reverse($thumb);
 
 $title='';
 for ($i=0; $i<count($files); $i++)

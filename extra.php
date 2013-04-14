@@ -115,6 +115,8 @@ Our students have always set high standards by winning several individual events
 
 $files = glob("images/extra/*.*");
 $thumb = glob("images/extra-thumb/*.*");
+$files  = array_reverse($files);
+$thumb  = array_reverse($thumb);
 
 $title='';
 for ($i=0; $i<count($files); $i++)
