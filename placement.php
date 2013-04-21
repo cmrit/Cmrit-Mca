@@ -88,7 +88,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Tanuja M Giri</h4>
-	  <h5>Batch : 2009</h4>
+	  <h5>Batch : 2007-2010</h4>
 	  <p>
 	  Software Engineer at Wipro
 	  </p>
@@ -104,7 +104,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Parmar Pawan</h4>
-	  <h5>Batch : 2009</h4>
+	  <h5>Batch : 2007-2010</h4>
 	  <p>
 	  Software Engineer at Razor Sight
 	  </p>
@@ -120,7 +120,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Chetan K J</h4>
-	  <h5>Batch : 2010</h4>
+	  <h5>Batch : 2008-2011</h4>
 	  <p>
 	  Software Engineer at HP
 	  </p>
@@ -135,7 +135,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Rudersh Navathi</h4>
-	  <h5>Batch : 2010</h4>
+	  <h5>Batch : 2008-2011</h4>
 	  <p>
 	  Software Engineer at Wipro
 	  </p>
@@ -150,7 +150,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Deepak M Joshi</h4>
-	  <h5>Batch : 2010</h4>
+	  <h5>Batch : 2008-2011</h4>
 	  <p>
 	  Software Engineer at NeoBytes India
 	  </p>
@@ -165,7 +165,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Ravi Chandra</h4>
-	  <h5>Batch : 2010</h4>
+	  <h5>Batch : 2008-2011</h4>
 	  <p>
 	  Software Engineer at HP
 	  </p>
@@ -180,7 +180,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Divya S M</h4>
-	  <h5>Batch : 2010</h4>
+	  <h5>Batch : 2008-2011</h4>
 	  <p>
 	  Software Engineer at HP
 	  </p>
@@ -196,7 +196,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Namrata Ahuja</h4>
-	  <h5>Batch : 2011</h4>
+	  <h5>Batch : 2009-2012</h4>
 	  <p>
 	  Software Engineer at TCS
 	  </p>
@@ -212,7 +212,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Anitha D</h4>
-	  <h5>Batch : 2011</h4>
+	  <h5>Batch : 2009-2012</h4>
 	  <p>
 	  Software Engineer at Dell
 	  </p>
@@ -228,7 +228,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Dhirendra Kumar</h4>
-	  <h5>Batch : 2011</h4>
+	  <h5>Batch : 2009-2012</h4>
 	  <p>
 	  Software Engineer at Razor Sight
 	  </p>
@@ -244,7 +244,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Jyostna Mishra</h4>
-	  <h5>Batch : 2011</h4>
+	  <h5>Batch : 2009-2012</h4>
 	  <p>
 	  Software Engineer at TCS
 	  </p>
@@ -260,7 +260,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Suprith B K</h4>
-	  <h5>Batch : 2012</h4>
+	  <h5>Batch : 2010-2013</h4>
 	  <p>
 	  Software Engineer at Maventic
 	  </p>
@@ -276,7 +276,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Manoj M Bhardwaj</h4>
-	  <h5>Batch : 2012</h4>
+	  <h5>Batch : 2010-2013</h4>
 	  <p>
 	  Web Developer at Retail On
 	  </p>
@@ -292,7 +292,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Swaroop S M</h4>
-	  <h5>Batch : 2012</h4>
+	  <h5>Batch : 2010-2013</h4>
 	  <p>
 	  Software Engineer at Dell
 	  </p>
@@ -308,7 +308,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Arun Kolhapur</h4>
-	  <h5>Batch : 2012</h4>
+	  <h5>Batch : 2010-2013</h4>
 	  <p>
 	  Software Engineer at Youdyog
 	  </p>
@@ -324,7 +324,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Krunal Patel</h4>
-	  <h5>Batch : 2012</h4>
+	  <h5>Batch : 2010-2013</h4>
 	  <p>
 	  Software Engineer at Mandamus Info Knowledge Consultants Pvt. Ltd.
 	  </p>
@@ -340,7 +340,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Ramakrishna</h4>
-	  <h5>Batch : 2012</h4>
+	  <h5>Batch : 2010-2013</h4>
 	  <p>
 	  Software Engineer at Mandamus Info Knowledge Consultants Pvt. Ltd.
 	  </p>
@@ -356,7 +356,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
     </a>
     <div class="media-body">
       <h4 class="media-heading">Riya Saha</h4>
-	  <h5>Batch : 2012</h4>
+	  <h5>Batch : 2010-2013</h4>
 	  <p>
 	  Software Engineer at Mandamus Info Knowledge Consultants Pvt. Ltd.
 	  </p>
