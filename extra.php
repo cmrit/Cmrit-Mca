@@ -181,119 +181,119 @@ echo '
 			<td>First Prize</td>
 			</tr>
 			<tr>
-			<td>6.</td>
+			<td>4.</td>
 			<td>Garden City College</td>
 			<td>Drapping</td>
 			<td>2</td>
 			<td>First Prize & Second Prize</td>
 			</tr>
 			<tr>
-			<td>7.</td>
+			<td>5.</td>
 			<td>Garden City College</td>
 			<td>Painting</td>
 			<td>2</td>
 			<td>First Prize</td>
 			</tr>
 			<tr>
-			<td>8.</td>
+			<td>6.</td>
 			<td>Garden City College</td>
 			<td>Brain Stretchers</td>
 			<td>2</td>
 			<td>Second Prize</td>
 			</tr>
 			<tr>
-			<td>9.</td>
+			<td>7.</td>
 			<td>Garden City College</td>
 			<td>Encryption/Decryption</td>
 			<td>2</td>
 			<td>First Prize</td>
 			</tr>
 			<tr>
-			<td>10.</td>
+			<td>8.</td>
 			<td>RV College</td>
 			<td>Web Designing</td>
 			<td>2</td>
 			<td>First Prize</td>
 			</tr>
 			<tr>
-			<td>11.</td>
+			<td>9.</td>
 			<td>RV College</td>
 			<td>Product Launch</td>
 			<td>4</td>
 			<td>First Prize</td>
 			</tr>
 			<tr>
-			<td>12.</td>
+			<td>10.</td>
 			<td>RV College</td>
 			<td>Toggle</td>
 			<td>1</td>
 			<td>First Prize</td>
 			</tr>
 			<tr>
-			<td>13.</td>
+			<td>11.</td>
 			<td>RV College</td>
 			<td>Treasure Hunt</td>
 			<td>2</td>
 			<td>First Prize</td>
 			</tr>
 			<tr>
-			<td>14.</td>
+			<td>12.</td>
 			<td>Oxford College</td>
 			<td>Web Designing</td>
 			<td>2</td>
 			<td>Second Prize</td>
 			</tr>
 			<tr>
-			<td>15.</td>
+			<td>13.</td>
 			<td>Oxford College</td>
 			<td>Mad Ads</td>
 			<td>5</td>
 			<td>Third Prize</td>
 			</tr>
 			<tr>
-			<td>16.</td>
+			<td>14.</td>
 			<td>Oxford College</td>
 			<td>Khoj</td>
 			<td>2</td>
 			<td>Third Prize</td>
 			</tr>
 			<tr>
-			<td>17.</td>
+			<td>15.</td>
 			<td>Oxford College</td>
 			<td>Tech- Talk</td>
 			<td>1</td>
 			<td>Third Prize</td>
 			</tr>
 			<tr>
-			<td>18.</td>
+			<td>16.</td>
 			<td>Reva College</td>
 			<td>Web Designing</td>
 			<td>2</td>
 			<td>First Prize</td>
 			</tr>
 			<tr>
-			<td>19.</td>
+			<td>17.</td>
 			<td>RNSIT College</td>
 			<td>Web Designing</td>
 			<td>1</td>
 			<td>First Prize</td>
 			</tr>
 			<tr>
-			<td>20.</td>
+			<td>18.</td>
 			<td>NITTE MEENAKSHI College</td>
 			<td>Web Designing</td>
 			<td>2</td>
 			<td>First Prize</td>
 			</tr>
 			<tr>
-			<td>21.</td>
+			<td>19.</td>
 			<td>NITTE MEENAKSHI College</td>
 			<td>Gaming</td>
 			<td>1</td>
 			<td>First Prize</td>
 			</tr>
 			<tr>
-			<td>21.</td>
+			<td>20.</td>
 			<td>NITTE MEENAKSHI College</td>
 			<td>Paper Presentation</td>
 			<td>2</td>
