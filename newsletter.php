@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>News Letter</title>
+    <title>NewsLetter</title>
 
 
     <!-- Le styles -->
@@ -53,7 +53,7 @@
 									<li ><a href="counseling.php">Counseling</a></li>
 									<li ><a href="guest.php">Guest Lectures</a></li>
 									<li ><a href="icp.php">ICP Process</a></li>
-									<li ><a href="newsletter.php">News letter</a></li>
+									<li ><a href="newsletter.php">NewsLetter</a></li>
 									<li ><a href="social.php">Social Concern</a></li>
 									<li ><a href="technical.php">Technical Fest</a></li>
 								</ul>
@@ -84,7 +84,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 			<hr />
 							<img src="images/newsletter.jpg" class="thumbnail"/>
 		</div>
-			<h2>News Letter</h2>
+			<h2>NewsLetter</h2>
 			<hr />
 <p>
 College life is not just academics. The key to success is determination and inspiration. We strongly believe “a sound goal with high motivation will lead to success”.

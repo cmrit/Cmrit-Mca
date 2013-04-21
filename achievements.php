@@ -54,7 +54,7 @@
 									<li ><a href="counseling.php">Counseling</a></li>
 									<li ><a href="guest.php">Guest Lectures</a></li>
 									<li ><a href="icp.php">ICP Process</a></li>
-									<li ><a href="newsletter.php">News letter</a></li>
+									<li ><a href="newsletter.php">NewsLetter</a></li>
 									<li ><a href="social.php">Social Concern</a></li>
 									<li ><a href="technical.php">Technical Fest</a></li>
 								</ul>
