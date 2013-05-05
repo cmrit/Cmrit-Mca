@@ -138,10 +138,10 @@ Alumni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
                         Ms. B Nithya Ramesh</a>
                     </li>
                     <li>
-					<!-- <a href="#myModal" data-toggle="modal" class="staff-img" data-event="usha"> -->
-                        <img src="images/p2-page-img.jpg" alt="">
+					 <a href="#myModal" data-toggle="modal" class="staff-img" data-event="usha">
+                        <img src="images/usha.jpg" alt="">
                         Ms. Usha Patnaik Das
-						<!-- </a> -->
+						</a> 
                     </li>
                     <li>
 					<a href="#myModal" data-toggle="modal" class="staff-img" data-event="sathya">
@@ -342,6 +342,9 @@ $(".modal-body").html('<div class="span2 pull-right"><img src="images/arshdeep.j
 break;
 case "pratima" :
 $(".modal-body").html('<div class="span2 pull-right"><img src="images/pratima.jpg" alt=""></div><p><strong>Name : </strong>MS. PRATIMA PATIL</p><p><strong>Department : </strong>Post Graduate Studies (MCA)</p><p><strong>Designation : </strong>LECTURER</p><p><strong>Education Qualification : </strong>MCA</p><p><strong>Experience	: </strong>4.8 YEARS</p><p><strong>Subjects Taught	: </strong>UNIX, OS, DS</p><p><strong>Research Interest : </strong>UNIX, JAVA</p><p><strong>Training Programme : </strong><ul><li>Rational Software Architect at CMRIT, Bangalore</li><li>Nettwen Technologies, Bangalore </li><li>IBM Certified Associate Developer -- Rational Application Developer for Web Sphere Software V6.0 4. IBM Certified Associate System Administrator - Lotus Notes and Domino 8</li></ul></p><p><strong>SkillSets	: </strong>Unix, Java, OS, DS</p><p><strong>Achivements	: </strong><ul><li>Certifications – Lotus Notes and Domino 8.0 certification from IBM, RAD certification from IBM and Tivoli certification from IBM </li><li>Conducted 4-day IBM RAD workshop at CMRIT in Odd Semester 2011 and Even Semester 2012</li></ul></p>');
+break;
+case "usha" :
+$(".modal-body").html('<div class="span2 pull-right"><img src="images/usha.jpg" alt=""></div><p><strong>Name : </strong>Ms. Usha Patnaik Das</p><p><strong>Department : </strong>Post Graduate Studies (MCA)</p><p><strong>Designation : </strong>Asst. Professor</p><p><strong>Education Qualification : </strong>MCA, M.Tech(IT)</p><p><strong>Experience	: </strong>11 YEARS</p><p><strong>Subjects Taught	: </strong>C, C++, Java & Advanced Java, DBMS, Data Structures, Computer Graphics, Data Mining & Data Warehousing, UNIX, Discrete Mathematics, Operations Research</p><p><strong>Research Interest : </strong>Web Application Development, Data Mining</p><p><strong>SkillSets	: </strong>Java Programming, Computer Graphics</p><p><strong>Achivements	: </strong><ul><li>Certifications – RAD certification from IBM</li></ul></p>');
 break;
 }
 });
