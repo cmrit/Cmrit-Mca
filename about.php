@@ -41,6 +41,7 @@
 									<li ><a href="about.php">Our Staffs</a></li>
 									<li ><a href="course.php">Course Details</a></li>
 								<li ><a href="admission.php">Admission</a></li>
+								<li ><a href="contact.php">Contact Us</a></li>
 								</ul>
 								</div>
 							</li>
@@ -62,7 +63,7 @@
 								<li><a href="placement.php">Placement</a></li>
 							<li><a href="research.php">Research Initiatives</a></li>
 							<li><a href="achievements.php">Achievements</a></li>
-							<li><a href="contact.php">Contacts</a></li>
+							<li><a href="alumni.php">Alumni</a></li>
 						</ul>    								
 				</div>
 				
