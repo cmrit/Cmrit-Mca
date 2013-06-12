@@ -164,11 +164,13 @@ Alumni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
                         <img src="images/neha.jpg" alt="">
                         Ms. Neha Agrawal</a>
                     </li>
+					<!--
 					<li>
 					<a href="#myModal" data-toggle="modal" class="staff-img" data-event="arshdeep">
                         <img src="images/arshdeep.jpg" alt="">
                         Ms. Arshdeep Kaur</a>
                     </li>
+					-->
 					<li>
 					<a href="#myModal" data-toggle="modal" class="staff-img" data-event="pratima">
                         <img src="images/pratima.jpg" alt="">
