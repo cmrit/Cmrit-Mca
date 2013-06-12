@@ -25,7 +25,7 @@
 		<div class="head-content">
 			<div class="row-fluid">
 			
-				<div class="span9 pull-right nav-align">
+				<div class="span10 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li><a href="index.php">Home</a></li>
 							<li id="about" class="active"><a href="#" class="account">about us</a>
@@ -59,7 +59,7 @@
 								<li><a href="placement.php">Placement</a></li>
 							<li><a href="research.php">Research Initiatives</a></li>
 							<li><a href="achievements.php">Achievements</a></li>
-							<li><a href="alumni.php">Alumni</a></li>
+							<li><a href="alumni.php">Distinguished Alumni</a></li>
 						</ul>    								
 				</div>
 				
