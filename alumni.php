@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Research Initiatives</title>
+    <title>Distinguished Alumni</title>
 
 
     <!-- Le styles -->
