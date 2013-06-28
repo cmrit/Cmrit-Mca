@@ -128,11 +128,13 @@ Alumni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
                         <img src="images/sudipto.jpg" alt="">
                         Mr. Sudipto Das</a>
                     </li>
+					<!--
 					<li>
 					<a href="#myModal" data-toggle="modal" class="staff-img" data-event="bharti">
                         <img src="images/bharti.jpg" alt="">
                         Ms. Bharti Chaubey</a>
                     </li>
+					-->
                     <li>
 					<a href="#myModal" data-toggle="modal" class="staff-img" data-event="nithya">
                         <img src="images/nithya.jpg" alt="">
