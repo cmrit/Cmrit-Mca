@@ -82,7 +82,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 <div class="span4 pull-right">
 			<h2>&nbsp;</h2>
 			<hr />
-							<img src="images/lifeskill.jpg" class="thumbnail"/>
+							<img src="images/alumni.jpg" class="thumbnail"/>
 		</div>
 			<h2>Alumni</h2>
 			<hr />
@@ -96,6 +96,9 @@ The philosophy behind this initiative is to create a platform where the students
 The Alumni Association would also provide a base for student-turned-professionals to suggest the current set of students and faculty, so that they can co-operate to explore new prospects in this huge, competitive world.
 </p>
 <p>
+<a href="distinguished.php">Cllick here for details on Distinguished Alumni</a>
+</p>
+<p>
 <strong>
 To take this forward, the following responsibilities have been allocated:
 </strong>
@@ -103,10 +106,10 @@ To take this forward, the following responsibilities have been allocated:
 <table class="table table-bordered">
 <tr>
 <td>SL.NO</td>
-<td width="100px">Role</td>
-<td>Name</td>
-<td>Designation & Company Details</td>
-<td>Batch</td>
+<td width="100px">ROLE</td>
+<td>NAME</td>
+<td>DESIGNATION & COMPANY DETAILS</td>
+<td>BATCH</td>
 </tr>
 <tr>
 <td>1</td>
@@ -200,8 +203,8 @@ To take this forward, the following responsibilities have been allocated:
 </table>
 			<div class="clear"></div>
 		</div>
+		
 </div>
-
 
 
 
