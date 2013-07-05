@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Distinguished Alumni</title>
+    <title>Alumni</title>
 
 
     <!-- Le styles -->
@@ -28,7 +28,7 @@
 		<div class="head-content">
 			<div class="row-fluid">
 			
-				<div class="span10 pull-right nav-align">
+				<div class="span9 pull-right nav-align">
 						<ul class="nav nav-pills nav-property">
 							<li><a href="index.php">Home</a></li>
 							<li id="about"><a href="#" class="account">about us</a>
@@ -62,7 +62,7 @@
 								<li><a href="placement.php">Placement</a></li>
 							<li><a href="research.php">Research Initiatives</a></li>
 							<li><a href="achievements.php">Achievements</a></li>
-							<li class="active"><a href="alumni.php">Distinguished Alumni</a></li>
+							<li class="active"><a href="alumni.php">Alumni</a></li>
 						</ul>    								
 				</div>
 				
@@ -79,70 +79,129 @@ Department Of <span style="color:#a6b032;"> MCA</span>
 
 <div class="content">
 <div class="span10">
-			<h2>Distinguished Alumni</h2>
+<div class="span4 pull-right">
+			<h2>&nbsp;</h2>
 			<hr />
+							<img src="images/lifeskill.jpg" class="thumbnail"/>
+		</div>
+			<h2>Alumni</h2>
+			<hr />
+<p>
+The Alumni Association for Department of MCA was formally inaugurated on Saturday, 15th June 2013. 
+</p>
+<p>
+The philosophy behind this initiative is to create a platform where the students of all batches of the MCA programme can interact generously, with an aim to strengthen our ties and promote the growth of the Department. It would help the students get a clear view of the opportunities in this wide world and would take this bond of friendship a step further. 
+</p>
+<p>
+The Alumni Association would also provide a base for student-turned-professionals to suggest the current set of students and faculty, so that they can co-operate to explore new prospects in this huge, competitive world.
+</p>
+<p>
+<strong>
+To take this forward, the following responsibilities have been allocated:
+</strong>
+</p>	
 <table class="table table-bordered">
-<tr><td width="50px">SL NO</td><td width="250px">NAME</td><td>PROFILE</td></tr>
- <tr><td>1</td><td>Sandhya Mohan</td><td>Senior Consultant - Oracle Weblogic Server</td></tr>
- <tr><td>2</td><td>V Bharath Kumar</td><td>Technical Services Specialist at IBM</td></tr>
- <tr><td>3</td><td>Omkar Singh</td><td>Works at IBM Global Technology Services</td></tr>
- <tr><td>4</td><td>Durga Singh Raghwa</td><td>Quality Analyst Engineer at Sling Media Pvt. Ltd</td></tr>
- <tr><td>5</td><td>Shobhit Srivastava</td><td>Former Operations Senior Specialist at IBM India Pvt Ltd</td></tr>
- <tr><td>6</td><td>Ashwini Sampagon</td><td>Works at ANZ Australia</td></tr>
- <tr><td>7</td><td>Sai Prasad</td><td>Storage Engineer at Hewlett-Packard</td></tr>
- <tr><td>8</td><td>Vimal Kumar Shukla</td><td>QA Team Lead at IG Group</td></tr>
- <tr><td>9</td><td>Md. Dizaur Rohman </td><td>Senior Software Engineer at Oracle</td></tr>
- <tr><td>10</td><td>Mohan Kumar</td><td>Lead Engineer at HCL Technologies</td></tr>
- <tr><td>11</td><td>Rama Devi</td><td>Software Engineer at HCL Technologies</td></tr>
- <tr><td>12</td><td>Hasna Haridas</td><td>System Engineer at IBM India</td></tr>
- <tr><td>13</td><td>Swetha BC</td><td>Developer at NIC</td></tr>
- <tr><td>14</td><td>Pooja Srinivas</td><td>Software Engineer at Igate Patni and SSE at IGate</td></tr>
- <tr><td>15</td><td>Shafeer CH</td><td>Software Engineer at Hewlett-Packard</td></tr>
- <tr><td>16</td><td>Sunny John</td><td>Software Engineer at HP</td></tr>
- <tr><td>17</td><td>Lad Neerajkumar</td><td>Consultant Logica</td></tr>
- <tr><td>18</td><td>Melwin</td><td>Asst. Professor at St.Joseph's College of Arts and Science,Bangalore</td></tr>
- <tr><td>19</td><td>Sudheer N</td><td>Operations Professional at IBM</td></tr>
- <tr><td>20</td><td>Pawan Parmar</td><td>Systems Development Associate at ACS Inc, A Xerox Company</td></tr>
- <tr><td>21</td><td>Vinay H G</td><td>Systems Development Associate at ACS Inc, A Xerox Company</td></tr>
- <tr><td>22</td><td>Manjunatha Patil</td><td>Works at WNS Global Services</td></tr>
- <tr><td>23</td><td>Balasaheb Umadi</td><td>Associate Software Engineer at Infosys</td></tr>
- <tr><td>24</td><td>Kishore Barman</td><td>Software Engineer at TCS</td></tr>
- <tr><td>25</td><td>Mohd. Ishaq</td><td>Software Engineer at TCS</td></tr>
- <tr><td>26</td><td>Sujatha.S G</td><td>Software Engineer at TCS</td></tr>
- <tr><td>27</td><td>Rahat Tabassum</td><td>Software Engineer at Wipro technologies</td></tr>
- <tr><td>28</td><td>Chitranj Barman</td><td>Software Engineer at IBM</td></tr>
- <tr><td>29</td><td>Mohan Kumar.M </td><td>Software Engineer at Capgemini</td></tr>
- <tr><td>30</td><td>Tanuja Giri</td><td>Software Engineer at Wipro technologies</td></tr>
- <tr><td>31</td><td>Prashant Kumar</td><td>Software Engineer at Wipro technologies</td></tr>
- <tr><td>32</td><td>Rajni Yadav</td><td>Software Engineer at Wipro technologies</td></tr>
- <tr><td>33</td><td>Renu Sharma</td><td>Works at CGI's Official Page</td></tr>
- <tr><td>34</td><td>Ranjan Kalita</td><td>Works at Neobytes Softwares PVT. Ltd</td></tr>
- <tr><td>35</td><td>Farooq Shaiks</td><td>Works at IBM Daksh and Nippon Express</td></tr>
- <tr><td>36</td><td>Prem Singh</td><td>Worked at Suksh technology pvt ltd</td></tr>
- <tr><td>37</td><td>Animesh Kalita</td><td>Works at Faculty of Computer Engineering in CIPET, GHY. and Central Institute of Plastics Engineering and Technology</td></tr>
- <tr><td>38</td><td>Ravichandra J</td><td>Software Engineer at HP</td></tr>
- <tr><td>39</td><td>Chetan K J</td><td>Software Engineer at HP</td></tr>
- <tr><td>40</td><td>Divya S</td><td>Software Engineer at HP</td></tr>
- <tr><td>41</td><td>Naresh Kumar P</td><td>Software Engineer at HP</td></tr>
- <tr><td>42</td><td>jonus joseph</td><td>Software Engineer at ELEVATE</td></tr>
- <tr><td>43</td><td>Shivaraj RH</td><td>Senior PHP Developer at Permeative Technologies Pvt Ltd</td></tr>
- <tr><td>44</td><td>Abhishek kumar</td><td>SAP CRM Technical Associate Consultant at Maventec</td></tr>
- <tr><td>45</td><td>Sumith Kumar</td><td>SAP CRM Technical Associate Consultant at Maventec</td></tr>
- <tr><td>46</td><td>Manas Ranjan</td><td>Junior Analyst at WNS Global Services</td></tr>
- <tr><td>47</td><td>P Sivananda</td><td>Junior Analyst at WNS Global Services</td></tr>
- <tr><td>48</td><td>Namrata  Ahuja</td><td>Associate Software Engineer at Tata Consultancy Services</td></tr>
- <tr><td>49</td><td>Jyotsna  Misra</td><td>Associate Software Engineer at Tata Consultancy Services</td></tr>
- <tr><td>50</td><td>Anitha D</td><td>Software Engineer at Dell</td></tr>
- <tr><td>51</td><td>Dhirendra Tanti</td><td>Software Engineer at Ernst & Young </td></tr>
- <tr><td>52</td><td>Amit Kumar Rajendra Kumar</td><td>Software Engineer at Patni Computers</td></tr>
- <tr><td>53</td><td>Bablu Kumar Saw</td><td>Systems Development Associate at ACS Inc, A Xerox Company</td></tr>
+<tr>
+<td>SL.NO</td>
+<td width="100px">Role</td>
+<td>Name</td>
+<td>Designation & Company Details</td>
+<td>Batch</td>
+</tr>
+<tr>
+<td>1</td>
+<td>President</td>
+<td> Mr. Bharath Kumar V</td>
+<td>Technical Services Specialist, SQL Server, IBM, Bangalore</td>
+<td>2005-08</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Vice President</td>
+<td>Mr. Mohammed Ishaq</td>
+<td>Sr.Software Engineer, TCS, Bangalore</td>
+<td>2004-07</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Secretary</td>
+<td>Ms.Namitha</td>
+<td>Final Year Student</td>
+<td>2010-13</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Joint Secretary</td>
+<td>Mr.Chaithanya</td>
+<td>Entrepreneur</td>
+<td>2009-12</td>
+</tr>
+<tr>
+<td>5</td>
+<td>SPOC</td>
+<td>
+<table class="table table-bordered">
+<tr>
+<td>Ms. Kokila G</td>
+</tr>
+<tr>
+<td>Mr. Manu V K</td>
+</tr>
+<tr>
+<td>Mr. Mohan Kumar</td>
+</tr>
+<tr>
+<td>Mr. Harioubal Reddy</td>
+</tr>
+<tr>
+<td>Ms.Anitha D</td>
+</tr>
 </table>
-
-			
+</td>
+<td>
+<table class="table table-bordered">
+<tr>
+<td>Software Developer, BACHAL</td>
+</tr>
+<tr>
+<td>Information Security Engineer, Infosys</td>
+</tr>
+<tr>
+<td>Software Engineer at Capgemini</td>
+</tr>
+<tr>
+<td>SQL Developer, Oracle</td>
+</tr>
+<tr>
+<td>Jr.Devloper, Dell</td>
+</tr>
+</table>
+</td>
+<td>
+<table class="table table-bordered">
+<tr>
+<td>2004-07</td>
+</tr>
+<tr>
+<td>2006-09</td>
+</tr>
+<tr>
+<td>2007-10</td>
+</tr>
+<tr>
+<td>2008-11</td>
+</tr>
+<tr>
+<td>2009-12</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
 			<div class="clear"></div>
-		
 		</div>
 </div>
+
 
 
 
